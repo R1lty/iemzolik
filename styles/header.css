@@ -16,4 +16,11 @@
     text-align: center;
     margin-left: 50px;
     font-size: 18px;
+    cursor: pointer;
+}
+
+.menu-name:hover{
+    color: blueviolet;
+    transition: 0.3s;
+    cursor: pointer;
 }

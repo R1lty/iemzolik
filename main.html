@@ -11,6 +11,10 @@
     <link rel="stylesheet" href="styles/background-style.css">
     <link rel="stylesheet" href="styles/general.css">
     <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/second-block.css">
+    <link rel="stylesheet" href="styles/third-block.css">
+    <link rel="stylesheet" href="styles/fourth-block.css">
+    <link rel="stylesheet" href="styles/fifth-block.css">
 </head>
 <body>
     <div class="header">
@@ -18,9 +22,80 @@
         <div class="menu-name">Rating</div>
         <div class="menu-name">Matches</div>
     </div>
-    <div>  
+    <div class="first-block">  
         <img class="background-image" src="images/bg.jpg" alt="">
     </div>
+    <div class="second-block">
+        <p class="second-block-text">Игроки случайным образом распределяются по группам. В каждой группе по 6 команд.
+            Каждая команда должна сыграть со всеми противниками своей группы для получения очков.
+            Игроки занявшие первое или второе место в своей группе выходят в этап Play Off!!!</p>
+        <div class="picture-area">
+            <img class="table-old" src="images/table.jpg" alt="">
+        </div>
+    </div>
+    <div class="third-block">
+        <img class="third-block-bg" src="images/thirdblockBg.jpg" alt="">
+        <h2 class="subHeader">ОЧКИ</h2>
+        <p class="win">Победа - 3 очка</p>
+        <p class="lose">Поражение - 0 очка</p>
+        <p class="third-block-text">Если у команд одинаковое количество очков, назначается дополнительный матч</p>
+    </div>
+    <div class="fourth-block">
+        <p class="subHeader4">КАРТЫ</p>
+        <div class="map-block">
+            <img class='map-image' src="images/boyard.jpg" alt="">
+            <img class='map-image' src="images/chalice.jpg" alt="">
+            <img class='map-image' src="images/cobble.jpg" alt="">
+            <img class='map-image' src="images/dust.jpg" alt="">
+            <img class='map-image' src="images/inferno.jpg" alt="">
+            <img class='map-image' src="images/lake.jpg" alt="">
+            <img class='map-image' src="images/nuke.jpg" alt="">
+            <img class='map-image' src="images/overpass.jpg" alt="">
+            <img class='map-image' src="images/train.jpg" alt="">
+            <img class='map-image' src="images/vertigo.jpg" alt="">
+        </div>
+            <div class="table-area">
+                <table class="boTable" cellspacing="5" cellpadding="10" border="1" bgcolor="black" width="500">  
+                
+                    <colgroup>
+                        <col span="1" style="background:rgb(255, 255, 255)"><!-- С помощью этой конструкции задаем цвет фона для первого столбца таблицы-->
+                        <col style="background-color:rgb(255, 255, 255)"><!-- Задаем цвет фона для следующего (одного) столбца таблицы-->
+                    </colgroup>
+                    
+                <thead>
+                    <tr>
+                        <th>ЭТАП ТУРНИРА</th>
+                        <th>ФОРМАТ</th>
+                    </tr>
+                </thead>
+                
+                <tr>
+                    <td>GROUP-STAGE</td>
+                    <td>BO1</td>			
+                </tr>
+                    <tr>
+                        <td>PLAY-OFF</td>
+                        <td>BO3</td>
+                    </tr>
+                    <tr>
+                        <td>GRAND-FINAL</td>
+                        <td>BO5</td>			
+                    </tr>
+
+            </table>
+            </div>
+            
+
+        </div>
+        <div class="fifth-block">
+            <img class="third-block-bg" src="images/thirdblockBg.jpg" alt="">
+            <h2 class="subHeader">ДАТА</h2>
+                <div class="fifth-block-text-area">
+                    <p class="fifth-block-text">ТУРНИР НАЧНЁТСЯ ТОГДА, КОГДА МНОГОУВАЖАЕМЫЙ 12Б СОБЛАГОВАЛИТ НАПИСАТЬ ВСЕ ЖКЗАМЕНЫ</p>
+                </div>
+            
+        </div>
+
 
 </body>
 </html>

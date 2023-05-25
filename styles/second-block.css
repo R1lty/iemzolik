@@ -1,0 +1,18 @@
+.second-block-text{
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    width: 970px;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+.picture-area{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.table-old{
+    height: 550px;
+    margin-top:50px;    
+}
