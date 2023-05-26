@@ -1,0 +1,19 @@
+<div class="image-sector">
+    <div class="plashka">
+        <div class="bg-square">
+            <div class="upp-square">
+                <div class="rating">0.00 Rating</div>
+                <div class="player-image-area">
+                    <img class="player-img" src="images/dima.png" alt="">
+                </div>
+                 <div class="circle">
+                    <div class="incircle-number">#1</div>
+                </div>
+                <div class="nickname">Aleksi</div>
+                <div class="team-logo-area">
+                     <img class="team-logo" src="images/mvs.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
