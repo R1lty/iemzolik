@@ -9,3 +9,21 @@
     font-size: 64px;
     color: black;
 }
+.reg-form{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    text-align: center;
+}
+
+.submit-button {
+    margin-top: 10px; /* Регулируйте отступ сверху в соответствии с вашими требованиями */
+}
+
