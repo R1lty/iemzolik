@@ -4,3 +4,14 @@ body{
     font-family: 'Russo One', sans-serif;
     margin-bottom: 80px;
 }
+a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
