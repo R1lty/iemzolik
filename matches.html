@@ -5,8 +5,118 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matches</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/matches.css">
 </head>
 <body>
-    
+    <div class="header">
+        <a href="main.html" class="menu-name" >Home</a>
+        <a href="rating.html" class="menu-name">Rating</a>
+        <a class="menu-name" style="color: rgb(228, 174, 255); cursor: not-allowed;" class="menu-name">Matches</a>
+    </div> 
+    <div class="playoff-area">
+        <img class="playoff-image" src="images/Play-off.jpg" alt="">
+    </div>
+    <div class="table-area">
+        <table class="score-table" id="team-table">
+            <caption class="table-title">Группа А</caption>
+            <tr>
+                <td>Nr.</td>
+                <td>Команда</td>
+                <td>Сыгранно игр</td>
+                <td>Очки</td>
+            </tr>
+            <tr class="fasplace rowDesigh" style="background-color: #00aa85;"> 
+                <td style="background-color: #00aa85;"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="fasplace">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="other-places">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="other-places">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="other-places">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="other-places">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            
+
+        </table>
+        <table class="score-table">
+            <caption class="table-title">Группа B</caption>
+            <tr>
+                <td>Nr.</td>
+                <td>Команда</td>
+                <td>Сыгранно игр</td>
+                <td>Очки</td>
+            </tr>
+            <tr class="fasplace" > 
+                <td >1</td>
+                <td>Navi</td>
+                <td>5</td>
+                <td>15</td>
+            </tr>
+            <tr class="fasplace">
+                <td>2</td>
+                <td>Astralis</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr class="other-places">
+                <td>3</td>
+                <td>Ence</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr class="other-places">
+                <td>4</td>
+                <td>Nip</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr class="other-places">
+                <td>5</td>
+                <td>Heroic</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            <tr class="other-places">
+                <td>6</td>
+                <td>Cloud9</td>
+                <td>0</td>
+                <td>0</td>
+            </tr>
+            
+
+        </table>
+    </div>
+    <script src="scripts/table-data.js"></script>
 </body>
 </html>
