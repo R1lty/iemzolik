@@ -26,14 +26,12 @@ table {
     margin-left:55px; 
     margin-top:50px;  
  }
- th {
-    border: 1px solid white;
-    color: white;
- }
- td {
+
+ td,th {
     border: 1px solid white;
     color: white;
     text-align: center;
+    padding:12px;
 
  }
  .table-title{
@@ -42,9 +40,8 @@ table {
     padding-top:25px;
     font-size: 24px;
  }
- .fasplace{
-    background-color:#00aa85;
- }
- .other-places{
-    background-color: rgb(106, 0, 56);
- }
+caption{
+   height: 50px;
+   padding-top:25px;
+}
+ 

@@ -22,101 +22,48 @@
         <img class="playoff-image" src="images/Play-off.jpg" alt="">
     </div>
     <div class="table-area">
-        <table class="score-table" id="team-table">
-            <caption class="table-title">Группа А</caption>
-            <tr>
-                <td>Nr.</td>
-                <td>Команда</td>
-                <td>Сыгранно игр</td>
-                <td>Очки</td>
-            </tr>
-            <tr class="fasplace rowDesigh" style="background-color: #00aa85;"> 
-                <td style="background-color: #00aa85;"></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="fasplace">
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="other-places">
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="other-places">
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="other-places">
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr class="other-places">
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            
-
-        </table>
-        <table class="score-table">
-            <caption class="table-title">Группа B</caption>
-            <tr>
-                <td>Nr.</td>
-                <td>Команда</td>
-                <td>Сыгранно игр</td>
-                <td>Очки</td>
-            </tr>
-            <tr class="fasplace" > 
-                <td >1</td>
-                <td>Navi</td>
-                <td>5</td>
-                <td>15</td>
-            </tr>
-            <tr class="fasplace">
-                <td>2</td>
-                <td>Astralis</td>
-                <td>0</td>
-                <td>0</td>
-            </tr>
-            <tr class="other-places">
-                <td>3</td>
-                <td>Ence</td>
-                <td>0</td>
-                <td>0</td>
-            </tr>
-            <tr class="other-places">
-                <td>4</td>
-                <td>Nip</td>
-                <td>0</td>
-                <td>0</td>
-            </tr>
-            <tr class="other-places">
-                <td>5</td>
-                <td>Heroic</td>
-                <td>0</td>
-                <td>0</td>
-            </tr>
-            <tr class="other-places">
-                <td>6</td>
-                <td>Cloud9</td>
-                <td>0</td>
-                <td>0</td>
-            </tr>
-            
-
-        </table>
+        <table id="team-table-a" class="team-table">
+            <caption>ГРУППА A</caption>
+            <thead>
+              <tr>
+                <th>Nr.</th>
+                <th>Команда</th>
+                <th>Сыгранные игры</th>
+                <th>Очки</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        
+          <table id="team-table-b" class="team-table">
+            <caption>ГРУППА Б</caption>
+            <thead>
+              <tr>
+                <th>Nr.</th>
+                <th>Команда</th>
+                <th>Сыгранные игры</th>
+                <th>Очки</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
     </div>
+    <style>
+    .team-table tr:nth-child(1) {
+      background-color: rgb(0, 128, 109);
+      color: white;
+    }
+    .team-table tr:nth-child(2) {
+      background-color: rgb(0, 128, 109);
+      color: white;
+    }
+    .team-table tr:not(:nth-child(1)):not(:nth-child(2)) {
+      background-color: rgb(56, 0, 27);
+      color: white;
+    }
+    </style>
     <script src="scripts/table-data.js"></script>
 </body>
 </html>

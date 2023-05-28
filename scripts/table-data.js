@@ -1,80 +1,121 @@
 const teamPositionA = [
-    {
-      name: 'Royal Flames',
-      playedGames: 1,
-      scores: 3
-    },
-    {
-      name: 'Navi',
-      playedGames: 1,
-      scores: 0,
-    },
-    {
-      name: 'Heroic',
-      playedGames: 2,
-      scores: 6
-    },
-    {
-      name: 'Astralis',
-      playedGames: 3,
-      scores: 9
-    },
-    {
-      name: 'Ence',
-      playedGames: 3,
-      scores: 6
-    },
-    {
-      name: 'Game Legion',
-      playedGames: 0,
-      scores: 0
-    }
-  ];
-  
+  {
+    name: 'Royal Flames',
+    playedGames: 1,
+    scores: 3
+  },
+  {
+    name: 'Navi',
+    playedGames: 1,
+    scores: 24,
+  },
+  {
+    name: 'Heroic',
+    playedGames: 2,
+    scores: 12
+  },
+  {
+    name: 'Astralis',
+    playedGames: 3,
+    scores: 19
+  },
+  {
+    name: 'Ence',
+    playedGames: 3,
+    scores: 20
+  },
+  {
+    name: 'Game Legion',
+    playedGames: 0,
+    scores: 0
+  }
+];
+
+const teamPositionB = [
+  {
+    name: 'Royal Flames',
+    playedGames: 1,
+    scores: 20
+  },
+  {
+    name: 'DZUZ',
+    playedGames: 1,
+    scores: 18,
+  },
+  {
+    name: 'Virtus Pro',
+    playedGames: 2,
+    scores: 13
+  },
+  {
+    name: 'Into The Breach',
+    playedGames: 3,
+    scores: 9
+  },
+  {
+    name: 'G2',
+    playedGames: 3,
+    scores: 6
+  },
+  {
+    name: 'Liquid',
+    playedGames: 0,
+    scores: 0
+  }
+];
+
+// Функция для создания таблицы команд
+function createTable(teamPosition, tableId) {
   // Сортируем команды по убыванию очков
-  teamPositionA.sort((a, b) => b.scores - a.scores);
-  
+  teamPosition.sort((a, b) => b.scores - a.scores);
+
   // Получаем таблицу команд
-  const table = document.getElementById('team-table');
-  
+  const table = document.getElementById(tableId);
+
+  // Очищаем содержимое таблицы
+  table.tBodies[0].innerHTML = '';
+
   // Создаем строки для каждой команды и обновляем их данные
-  teamPositionA.forEach((team, index) => {
+  teamPosition.forEach((team, index) => {
     const row = table.insertRow();
     const positionCell = row.insertCell();
     const nameCell = row.insertCell();
     const playedGamesCell = row.insertCell();
     const scoresCell = row.insertCell();
-  
+
     positionCell.textContent = index + 1;
     nameCell.textContent = team.name;
     playedGamesCell.textContent = team.playedGames;
     scoresCell.textContent = team.scores;
   });
-  
-  // Функция для обновления таблицы
-  function updateTable() {
-    // Удаляем текущие строки из таблицы
-    while (table.rows.length > 1) {
-      table.deleteRow(1);
-    }
-  
-    // Обновляем данные и сортируем команды
-    teamPositionA.forEach((team, index) => {
-      const row = table.insertRow();
-      const positionCell = row.insertCell();
-      const nameCell = row.insertCell();
-      const playedGamesCell = row.insertCell();
-      const scoresCell = row.insertCell();
-  
-      positionCell.textContent = index + 1;
-      nameCell.textContent = team.name;
-      playedGamesCell.textContent = team.playedGames;
-      scoresCell.textContent = team.scores;
-    });
+}
+
+// Создаем таблицу команд A
+createTable(teamPositionA, 'team-table-a');
+
+// Создаем таблицу команд B
+createTable(teamPositionB, 'team-table-b');
+
+// Функция для обновления позиций команд в таблице
+function updatePositions(teamPosition, tableId) {
+  // Сортируем команды по убыванию очков
+  teamPosition.sort((a, b) => b.scores - a.scores);
+
+  // Получаем таблицу команд
+  const table = document.getElementById(tableId);
+
+  // Обновляем позиции команд в таблице
+  const rows = table.tBodies[0].rows;
+  for (let i = 0; i < rows.length; i++) {
+    const positionCell = rows[i].cells[0];
+    positionCell.textContent = i + 1;
   }
-  
-  // Пример обновления количества очков команды "Navi"
-  teamPositionA.find(team => team.name === 'Navi').scores = 3;
-  
-  // Вызываем функцию обновления таблицы
-  updateTable();
+}
+
+// Пример обновления количества очков команды "Navi" в таблице A
+teamPositionA.find(team => team.name === 'Navi').scores = 3;
+updatePositions(teamPositionA, 'team-table-a');
+
+// Пример обновления количества очков команды "argus" в таблице B
+teamPositionB.find(team => team.name === 'argus').scores = 4;
+updatePositions(teamPositionB, 'team-table-b');
