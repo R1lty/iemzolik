@@ -16,3 +16,19 @@
     right:250px;
     text-align: right;
 }
+.under-tytitle{
+    position: relative;
+    color: white;
+    font-size: 24px;
+    top:600px;
+    text-align: center;
+    left: 0px;
+}
+.under-tytitle2{
+    position: relative;
+    color: white;
+    font-size: 24px;
+    top:600px;
+    text-align: center;
+    left: 650px;
+}
