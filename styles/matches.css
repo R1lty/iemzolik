@@ -1,47 +1,49 @@
-body{
-    height: 100vh;
-    background: rgba(24, 6, 63, 0.78);
-  }
-.playoff-area{
-    height: 100%;
-    width: 100%;
-    background-color: red;
-
-}
-.playoff-image{
-    height: 100%;
-    width: 100%;
-}
-.table-area{
+.matches-block {
     display: flex;
-}
-caption{
-    border: 1px solid white;
-    color: white;
-}
-table {
-    border: 1px solid white;
-    color: white;
-    width: 600px;
-    margin-left:55px; 
-    margin-top:50px;  
- }
+    flex-wrap: wrap;
+  }
+.matches-area {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 100%;
+  }
+.left-section{
+    margin-right:50px; 
 
- td,th {
-    border: 1px solid white;
+}
+.middle-section{
+    margin-right:50px;
+}
+.image-area{
+    width: 190px;
+    height: 200px;
+    margin-bottom:15px;
+}
+.team-logo{
+    width: 100%;
+    height: 100%;
+}
+.team-name{
     color: white;
+    margin:0 auto;
     text-align: center;
-    padding:12px;
-
- }
- .table-title{
-    height: 50px;
-    align-items: center;
-    padding-top:25px;
-    font-size: 24px;
- }
-caption{
-   height: 50px;
-   padding-top:25px;
 }
- 
+.group, .score, .time, .data{
+    color: white;
+    margin:0 auto;
+    text-align: center;
+
+}
+.group{
+    font-size: 18px;
+}
+.score{
+    font-size: 64px;
+    margin:50px 50px ;
+}
+.data{
+    font-size: 12px;
+    margin-top:3px;    
+}

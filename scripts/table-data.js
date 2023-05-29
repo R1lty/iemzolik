@@ -1,31 +1,31 @@
 const teamPositionA = [
   {
     name: 'Royal Flames',
-    playedGames: 1,
-    scores: 3
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Navi',
-    playedGames: 1,
-    scores: 24,
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0,
   },
   {
-    name: 'Heroic',
-    playedGames: 2,
-    scores: 12
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Astralis',
-    playedGames: 3,
-    scores: 19
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Ence',
-    playedGames: 3,
-    scores: 20
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Game Legion',
+    name: 'Unknown Team',
     playedGames: 0,
     scores: 0
   }
@@ -33,32 +33,32 @@ const teamPositionA = [
 
 const teamPositionB = [
   {
-    name: 'Royal Flames',
-    playedGames: 1,
-    scores: 20
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'DZUZ',
-    playedGames: 1,
-    scores: 18,
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0,
   },
   {
-    name: 'Virtus Pro',
-    playedGames: 2,
-    scores: 13
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Into The Breach',
-    playedGames: 3,
-    scores: 9
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'G2',
-    playedGames: 3,
-    scores: 6
+    name: 'Unknown Team',
+    playedGames: 0,
+    scores: 0
   },
   {
-    name: 'Liquid',
+    name: 'Unknown Team',
     playedGames: 0,
     scores: 0
   }
