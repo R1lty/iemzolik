@@ -26,3 +26,18 @@
     margin-top:50px; 
     animation: slide-in 1s ease-in-out;   
 }
+@media(max-width:900px){
+  .second-block-text{
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+  }
+  .table-old{
+    width: 350px;
+    height: 200px;
+  }
+}
