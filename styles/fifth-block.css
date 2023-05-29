@@ -20,3 +20,10 @@
     top:100px;
     color: white;
 }
+@media(max-width:900px){
+    .fifth-block-text{
+        font-size: 12px;
+        top:20px;
+        width: 300px;
+    }
+}

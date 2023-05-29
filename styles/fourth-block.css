@@ -42,3 +42,14 @@
     justify-content: center;
     align-items: center;
 }
+@media(max-width:900px){
+    .fourth-block{
+        margin-top:50px;
+    }
+    .subHeader4{
+        font-size: 24px;
+    }
+    .map-block{
+    grid-template-columns: 200px 200px;
+    }
+}
