@@ -62,3 +62,8 @@ caption{
     background-color: rgb(56, 0, 27);
     color: white;
   }
+  @media(max-width:1920px){
+    .table-area{
+      margin-left:200px;
+    }
+  }
