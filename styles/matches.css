@@ -84,9 +84,38 @@
     table{
         width: 400px;
     }
-    .matches-area{
+    .image-area{
+        width: 70px;
+        height: 80px;
+        margin-bottom:15px;
+    }
+
+
+    .matches-block {
+        display: flex;
+
+      }
+      .left-section{
+        margin-left:-185px;
+        margin-right: 20px;
+      }
+      .middle-section{
+        margin-right: 20px;
+      }
+      
+
+      .group{
+        font-size: 12px;
+    }
+    .score{
+        font-size: 32px;
+        margin:25px 25px ;
 
     }
+    .team-name{
+        font-size: 12px;
+    }
+
 }
 
 

@@ -33,7 +33,7 @@ const teamPositionA = [
 
 const teamPositionB = [
   {
-    name: 'Unknown Team',
+    name: 'MVS',
     playedGames: 0,
     scores: 0
   },
