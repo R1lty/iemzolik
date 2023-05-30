@@ -64,6 +64,8 @@ caption{
   }
   @media(max-width:1920px){
     .table-area{
-      margin-left:200px;
+      margin-left:0 auto;
     }
+
+    
   }
