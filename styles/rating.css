@@ -117,3 +117,22 @@ animation: 1s show ease;
   animation: 1s show ease; 
 }
 
+@media(max-width:900px){
+  .header{
+    z-index: 100;
+  }
+  .rating-title{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom:30px ;
+  }
+  .image-sector{
+    grid-template-columns: 1fr;
+  }
+  .plashka{
+    margin-top: 70px;
+  }
+  .image-sector{
+    margin-left: 15px;
+  }
+}
