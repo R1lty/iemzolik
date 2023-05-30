@@ -52,4 +52,21 @@
         font-size: 14px;
         top:5px;
     }
+    .third-block{
+        height: 100vh;
+    }
+    .third-block-bg{
+        width: 100%;
+        height: 10px;
+    }
 }
+@media (max-width: 900px) {
+    .third-block-bg,
+    .fifth-block-bg {
+      max-height: 200px;
+      object-fit: cover;
+    }
+    .third-block{
+        max-height: 200px;
+    }
+  }
