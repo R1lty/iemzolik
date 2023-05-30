@@ -9,6 +9,7 @@
     margin-top: 50px;
     width: 100%;
   }
+
 .left-section{
     margin-right:50px; 
 
@@ -46,4 +47,23 @@
 .data{
     font-size: 12px;
     margin-top:3px;    
+}
+@media(max-width:700px){
+    .playoff-area{
+        width: 810px;
+        height: 500px;
+        background-color: aliceblue;
+    }
+    .team-table-b{
+        margin:0 auto;
+    }
+    .team-table{
+        margin:0 auto;
+        margin-left: 40px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    .matches-area{
+        margin-left:200px;
+    }
 }
