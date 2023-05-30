@@ -64,7 +64,7 @@ caption{
   }
   @media(max-width:1920px){
     .table-area{
-      margin-left:0 auto;
+      justify-content: center;
     }
 
     
