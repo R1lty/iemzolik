@@ -5,7 +5,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'Подпивасники',
     playedGames: 0,
     scores: 0,
   },
@@ -38,7 +38,7 @@ const teamPositionB = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'Под ALUS',
     playedGames: 0,
     scores: 0,
   },
