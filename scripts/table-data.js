@@ -20,7 +20,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'DZUZ',
     playedGames: 0,
     scores: 0
   },
