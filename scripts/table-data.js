@@ -5,7 +5,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Подпивасники',
+    name: 'Sņusītis',
     playedGames: 0,
     scores: 0,
   },
