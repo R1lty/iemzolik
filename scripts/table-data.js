@@ -20,7 +20,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'DZUZ',
+    name: 'POLINA FANS',
     playedGames: 0,
     scores: 0
   },
@@ -53,7 +53,7 @@ const teamPositionB = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'DZUZ',
     playedGames: 0,
     scores: 0
   },
