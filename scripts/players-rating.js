@@ -9,7 +9,7 @@ const players= [{
     place:1,
     rating:2.29,
     image:'images/nikita.png',
-    team:'images/royalFlames.png'
+    team:'images/new-royalFlames.png'
 },
 {
     name: 'Lampo4ka',

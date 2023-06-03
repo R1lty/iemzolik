@@ -1,13 +1,33 @@
 const gameinfo =[{
-    team1:'Royal Flames',
-    team2:'DZUZ',
-    team1_image:'images/royalFlames.png',
-    team2_image:'images/dzuz.png',
+    team1:'',
+    team2:'',
+    team1_image:'images/new-royalFlames.png',
+    team2_image:'images/snusitis.png',
 
     group:'ГРУППА А',
     score:'VS',
     time:'20:15',
-    data:'15.06'
+    data:'10.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/recoilsTitans.png',
+  team2_image:'images/snusitis.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'20:15',
+  data:'10.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/recoilsTitans.png',
+  team2_image:'images/new-royalFlames.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'20:15',
+  data:'10.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
