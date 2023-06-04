@@ -8,23 +8,23 @@
 }
 .subHeader{
     text-align: center;
-    font-size: 64px;
+    font-size: 48px;
     position: relative;
-    top:80px;
+    top:70px;
     color: white;
 }
 .win{
     text-align: center;
-    font-size: 48px;
+    font-size: 40px;
     position: relative;
-    top:100px;
+    top:70px;
     color: greenyellow;
 }
 .lose{
     text-align: center;
-    font-size: 48px;
+    font-size: 40px;
     position: relative;
-    top:100px;
+    top:70px;
     color: red;
 }
 

@@ -1,5 +1,5 @@
 body{
-  height: 100vh;
+  height: 81.30vh;
   background: linear-gradient(rgba(51, 20, 120, 1),rgba(24, 6, 63, 0.78));
 }
 .rating-title-area{
@@ -9,9 +9,9 @@ body{
 }
 
 .rating-title{
-  font-size: 64px;
+  font-size: 52px;
   color: white;
-
+  margin-top: 30px;
 }
 
 
@@ -118,6 +118,9 @@ animation: 1s show ease;
 }
 
 @media(max-width:900px){
+  body{
+    height: 127vh;
+  }
   .header{
     z-index: 100;
   }
