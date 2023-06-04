@@ -30,6 +30,12 @@ const players= [{
     place:3,
     image:'images/franc.png',
     team:'images/mvs.png',
+},{
+    name:'TreiX',
+    rating:0.00,
+    place:0,
+    image:'images/r1lty.png',
+    team:'images/mvs.png'
 }]
 players.sort((a, b) => b.rating - a.rating);
 const top3_players = players.slice(0, 3);
