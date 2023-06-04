@@ -15,7 +15,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Уланов-Сенкин',
+    name: 'Жилистые звери',
     playedGames: 0,
     scores: 0
   },
@@ -25,7 +25,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'Лепс team',
     playedGames: 0,
     scores: 0
   }
@@ -58,7 +58,7 @@ const teamPositionB = [
     scores: 0
   },
   {
-    name: 'Unknown Team',
+    name: 'KK E-sports',
     playedGames: 0,
     scores: 0
   }
