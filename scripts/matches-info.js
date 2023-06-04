@@ -1,7 +1,7 @@
 const gameinfo =[{
     team1:'',
     team2:'',
-    team1_image:'images/new-royalFlames.png',
+    team1_image:'images/new-royalflames.png',
     team2_image:'images/snusitis.png',
 
     group:'ГРУППА А',
@@ -22,7 +22,7 @@ const gameinfo =[{
   team1:'',
   team2:'',
   team1_image:'images/recoilsTitans.png',
-  team2_image:'images/new-royalFlames.png',
+  team2_image:'images/new-royalflames.png',
 
   group:'ГРУППА А',
   score:'VS',
