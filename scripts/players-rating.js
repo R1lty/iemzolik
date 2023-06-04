@@ -29,13 +29,127 @@ const players= [{
     rating:1.98,
     place:3,
     image:'images/franc.png',
-    team:'images/mvs.png',
+    team:'images/ЧлEn0s0s1Ki228.png',
 },{
     name:'TreiX',
     rating:0.00,
     place:0,
-    image:'images/r1lty.png',
+    image:'images/unknown.png',
     team:'images/mvs.png'
+},{
+    name:'Максим',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/snusitis.png'
+},{
+    name:'Саня',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/snusitis.png'
+},{
+    name:'Le{gg}enda',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/underAlus.png'
+},{
+    name:'-47',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/underAlus.png'
+},{
+    name:'Эрик',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/beasts.png'
+},{
+    name:'Сенкин',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/beasts.png'
+},{
+    name:'Илья',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/recoilsTitans.png'
+},{
+    name:'Никита',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/recoilsTitans.png'
+},{
+    name:'Obliq',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/ЧлEn0s0s1Ki228.png'
+},{
+    name:'adunnond',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/ЧлEn0s0s1Ki228.png'
+},{
+    name:'Женя',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/kurushimi.png'
+},{
+    name:'Виталя',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/kurushimi.png'
+},{
+    name:'Виталя',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/kurushimi.png'
+},{
+    name:'Marat',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/polinaFans.png'
+},{
+    name:'Marat-kent',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/polinaFans.png'
+},{
+    name:'Arturan',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/polinaFans.png'
+},{
+    name:'leps',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/polinaFans.png'
+},{
+    name:'first-player',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/kk.png'
+},{
+    name:'second-player',
+    rating:0.00,
+    place:0,
+    image:'images/unknown.png',
+    team:'images/kk.png'
 }]
 players.sort((a, b) => b.rating - a.rating);
 const top3_players = players.slice(0, 3);

@@ -21,7 +21,7 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/recoilsTitans.png',
+  team1_image:'images/beasts.png',
   team2_image:'images/new-royalflames.png',
 
   group:'ГРУППА А',
