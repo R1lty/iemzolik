@@ -25,7 +25,7 @@ const teamPositionA = [
     scores: 0
   },
   {
-    name: 'Лепс team',
+    name: 'GVATAR',
     playedGames: 0,
     scores: 0
   }
