@@ -2,52 +2,62 @@
     display: flex;
     flex-wrap: wrap;
   }
+
 .matches-area {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
     margin-top: 50px;
     width: 100%;
-  }
-
+}
+ 
 .left-section{
     margin-right:50px; 
 
 }
+
 .middle-section{
     margin-right:50px;
 }
+
 .image-area{
     width: 190px;
     height: 200px;
     margin-bottom:15px;
 }
+
 .team-logo{
     width: 100%;
     height: 100%;
 }
+
 .team-name{
     color: white;
     margin:0 auto;
     text-align: center;
 }
+
 .group, .score, .time, .data{
     color: white;
     margin:0 auto;
     text-align: center;
 
 }
+
 .group{
     font-size: 18px;
 }
+
 .score{
     font-size: 64px;
     margin:50px 50px ;
 }
+
 .data{
     font-size: 12px;
     margin-top:3px;    
 }
+
 @media(max-width:700px){
     .playoff-area{
         margin-top:30px;
@@ -64,7 +74,6 @@
         width: 400px;
     }
     .team-table{
-
         margin:0 auto;
         margin-top: 35px;
         margin-bottom: 35px;
@@ -89,11 +98,8 @@
         height: 80px;
         margin-bottom:15px;
     }
-
-
     .matches-block {
         display: flex;
-
       }
       .left-section{
         margin-left:-185px;
@@ -101,22 +107,15 @@
       }
       .middle-section{
         margin-right: 20px;
-      }
-      
-
+      } 
       .group{
         font-size: 12px;
     }
     .score{
         font-size: 32px;
         margin:25px 25px ;
-
     }
     .team-name{
         font-size: 12px;
     }
-
 }
-
-
-  

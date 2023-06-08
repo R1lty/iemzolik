@@ -2,6 +2,7 @@ body{
   height: 81.30vh;
   background: linear-gradient(rgba(51, 20, 120, 1),rgba(24, 6, 63, 0.78));
 }
+
 .rating-title-area{
   display: flex;
   justify-content: center;
@@ -14,15 +15,16 @@ body{
   margin-top: 30px;
 }
 
-
 .rating-content{
   width: 100%;
 
 }
+
 @keyframes show {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
 .image-sector{
   margin-top:-10px;
   display: grid;
@@ -30,11 +32,12 @@ body{
   margin-left:80px;
   margin-right:80px;
 }
+
 .plashka{
     width: 300px;
     height: 300px;
     margin-top: 150px;
-  }
+}
 
 .bg-square{
 
@@ -44,6 +47,7 @@ body{
   position: absolute;
   margin-left:50px;
 }
+
 .upp-square{
   width: 100%;
   height: 50%;
@@ -52,6 +56,7 @@ body{
   top:0px;  
 
 }
+
 .rating{
   text-align: right;
   padding-top:50px;
@@ -62,6 +67,7 @@ body{
   right: -180px;
   animation: 1s show ease; 
 }
+
 .player-image-area{
   position: relative;
   width: 180px;
@@ -69,12 +75,12 @@ body{
   top:-170px ;
   left:-5px;
 }
+
 .player-img{
   height: 100%;
   width: 100%;
   animation: 1s show ease;  
 }
-
 
 .circle{
   display: flex;
@@ -90,10 +96,12 @@ body{
   top:-280px;
   left:10px;
 }
+
 .incircle-number{
 font-size: 40px;
 animation: 1s show ease; 
 }
+
 .nickname{
   position: relative;
   color: white;
@@ -101,16 +109,16 @@ animation: 1s show ease;
   left:15px;
   font-size: 28px;
   animation: 1s show ease; 
-
 }
+
 .team-logo-area{
   width: 130px;
   height: 140px;
   position: relative;
   top:-380px;
   right: -165px;
-
 }
+
 .team-logo{
   width: 100%;
   height: 100%;
