@@ -1,4 +1,3 @@
-
 .main-part {
   background: linear-gradient(rgba(51, 20, 120, 1), rgba(24, 6, 63, 0.78));
   width: 100%;
@@ -6,12 +5,14 @@
   display: flex;
   justify-content: center;
 }
+
 .js-teams-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   max-width: 800px;
 }
+
 .teams-area{
   position: relative;
   width: 310px;
@@ -20,18 +21,19 @@
   margin-top: 100px;
   width: calc(50% - 20px);
   margin-bottom: 20px;
-  
-
 }
+
 .pic{
   width: 100%;
   height: 100%;
 }
+
 .teams-area:hover .line1,
 .teams-area:hover .line2 {
   transform: translateX(-50%);
   opacity: 90%;
 }
+
 .line1{
   width: 200px;
   height: 40px;
@@ -51,6 +53,7 @@
   opacity: 0;
   transition: transform 0.3s ease;
 }
+
 .line2{
   width: 200px;
   height: 40px;
