@@ -8,6 +8,26 @@ const gameinfo =[{
     score:'VS',
     time:'20:00',
     data:'09.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/new-royalflames.png',
+  team2_image:'images/recoilsTitans.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'21:00',
+  data:'09.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/recoilsTitans.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'20:30',
+  data:'09.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
