@@ -26,7 +26,7 @@ const gameinfo =[{
 
   group:'ГРУППА А',
   score:'VS',
-  time:'20:30',
+  time:'21:30',
   data:'09.06'
 }]
 gameinfo.sort();
