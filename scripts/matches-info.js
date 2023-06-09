@@ -31,32 +31,12 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/polinaFans.png',
-  team2_image:'images/jora.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'21:00',
-  data:'10.06'
-},{
-  team1:'',
-  team2:'',
   team1_image:'images/jora.png',
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА А',
   score:'VS',
-  time:'21:30',
-  data:'10.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/new-royalflames.png',
-  team2_image:'images/polinaFans.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'09:00',
+  time:'21:00',
   data:'10.06'
 },{
   team1:'',
@@ -96,7 +76,7 @@ const gameinfo =[{
 
   group:'ГРУППА B',
   score:'VS',
-  time:'22:30',
+  time:'23:00',
   data:'10.06'
 }]
 gameinfo.sort();
