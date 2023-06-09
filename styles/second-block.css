@@ -1,3 +1,12 @@
+.subHeader_rules{
+    text-align: center;
+    font-size: 48px;
+    position: relative;
+    top: 30px;
+    margin-top: 39px;
+    margin-bottom: 39px;
+}
+
 .second-block-text{
     display: flex;
     margin: auto;
@@ -43,5 +52,8 @@
     width: 350px;
     height: 200px;
     margin-top: 15px;
+  }
+  .subHeader_rules{
+
   }
 }
