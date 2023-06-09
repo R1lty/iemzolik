@@ -7,26 +7,26 @@ const players= [{
 },{
     name: 'NicKaJ',
     place:1,
-    rating:2.29,
+    rating:2.01,
     image:'images/nikita.png',
     team:'images/new-royalflames.png'
 },
 {
     name: 'Lampo4ka',
     place:2,
-    rating:2.23,
+    rating:0.00,
     image:'images/dima.png',
     team:'images/dzuz.png'
 },{
     name:'R1lty',
-    rating:0.02,
-    place:1,
+    rating:1.38,
+    place:2,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },
 {
     name:'franc',
-    rating:1.98,
+    rating:0.00,
     place:3,
     image:'images/franc.png',
     team:'images/ЧлEn0s0s1Ki228.png',
@@ -38,14 +38,14 @@ const players= [{
     team:'images/mvs.png'
 },{
     name:'Максим',
-    rating:0.00,
+    rating:0.36,
     place:0,
     image:'images/unknown.png',
     team:'images/snusitis.png'
 },{
-    name:'Саня',
-    rating:0.00,
-    place:0,
+    name:'A1ziks',
+    rating:0.91,
+    place:3,
     image:'images/unknown.png',
     team:'images/snusitis.png'
 },{
