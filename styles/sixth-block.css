@@ -56,6 +56,9 @@
         margin-top: 200px;
 
     }
+    .submit-button {
+        margin-bottom: 30px;
+    }
 }
 
 @media(max-width:1920px){
