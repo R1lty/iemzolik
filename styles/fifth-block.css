@@ -26,14 +26,17 @@
 
 @media(max-width:900px){
     .fifth-block-text{
-        font-size: 12px;
-        top:20px;
+        font-size: 15px;
+        top: 20px;
         width: 300px;
     }
+    .fifth-block-bg{ /* Это отвечает за картинку сверху (ОЧКИ) */
+        max-height: 190px;
+    }
     .fifth-block{
-        margin-top:552px;
+        margin-top: 590px;
     }
     .table-area{
-        margin-top:120px;
+        margin-top: 120px;
     }
 }

@@ -32,14 +32,16 @@
   .second-block-text{
     display: flex;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 30px;
     width: 350px;
     text-align: center;
     align-items: center;
-    font-size: 12px;
+    font-size: 15px;
+    margin-bottom: 10px;
   }
   .table-old{
     width: 350px;
     height: 200px;
+    margin-top: 15px;
   }
 }

@@ -43,22 +43,24 @@
 @media(max-width:900px){
     .subHeader{
         font-size: 24px;
-        top:20px;   
+        top: 20px;   
     }
     .win{
         font-size:18px ;
-        top:10px;   
+        top: 20px;   
     }
     .lose{
         font-size: 18px;
-        top:10px;   
+        top: 10px;   
     }
     .third-block-text{
         font-size: 14px;
-        top:5px;
+        margin-bottom: 10px;
+        top: 15px;
     }
     .third-block{
         height: 100vh;
+        margin-top: -5px;
     }
     .third-block-bg{
         width: 100%;
@@ -68,8 +70,8 @@
 
 @media (max-width: 900px) {
     .third-block-bg,
-    .fifth-block-bg {
-      max-height: 200px;
+    .fifth-block-bg { /* Это отвечает за картинку снизу (ДАТА) */
+      max-height: 220px;
       object-fit: cover;
     }
     .third-block{

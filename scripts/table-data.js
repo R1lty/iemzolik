@@ -1,16 +1,16 @@
 const teamPositionA = [
   {
     name: 'Royal Flames',
-    playedGames: 0,
-    scores: 0
+    playedGames: 1,
+    scores: 3
   },
   {
     name: 'Sņusītis',
-    playedGames: 0,
+    playedGames: 1,
     scores: 0,
   },
   {
-    name: 'Recoils Titans',
+    name: '最も多く支払った人が勝ちです',
     playedGames: 0,
     scores: 0
   },
