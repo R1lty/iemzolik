@@ -5,13 +5,12 @@ const players= [{
     image:'images/dima.png',
     team:'images/mvs.png'
 },{
-    name: 'NicKaJ',
+    name: 'NicKai',
     place:2,
     rating: 1.52,
     image:'images/nikita.png',
     team:'images/new-royalflames.png'
-},
-{
+},{
     name: 'Lampo4ka',
     place:2,
     rating:0.00,
@@ -23,8 +22,7 @@ const players= [{
     place:1,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
-},
-{
+},{
     name:'franc',
     rating:0.00,
     place:3,
