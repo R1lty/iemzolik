@@ -5,7 +5,7 @@ const gameinfo =[{
     team2_image:'images/snusitis.png',
 
     group:'ГРУППА А',
-    score:'1:0',
+    score:'1 : 0',
     time:'20:15',
     data:'09.06'
 },
@@ -16,7 +16,7 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА А',
-  score:'1:0',
+  score:'1 : 0',
   time:'20:30',
   data:'10.06'
 },
