@@ -6,7 +6,7 @@ const players= [{
     team:'images/mvs.png'
 },{
     name: 'NicKai',
-    place:2,
+    place:3,
     rating: 1.52,
     image:'images/nikita.png',
     team:'images/new-royalflames.png'
@@ -19,7 +19,7 @@ const players= [{
 },{
     name:'R1lty',
     rating:1.62,
-    place:1,
+    place:2,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },{
@@ -96,14 +96,14 @@ const players= [{
     team:'images/ЧлEn0s0s1Ki228.png'
 },{
     name:'Женя',
-    rating:0.00,
+    rating:1.02,
     place:0,
     image:'images/unknown.png',
     team:'images/kurushimi.png'
 },{
-    name:'Виталя',
-    rating:0.00,
-    place:0,
+    name:'isidurrrrrr1',
+    rating:1.92,
+    place:1,
     image:'images/unknown.png',
     team:'images/kurushimi.png'
 },{
