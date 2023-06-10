@@ -101,7 +101,7 @@ const players= [{
     image:'images/unknown.png',
     team:'images/kurushimi.png'
 },{
-    name:'isidurrrrrr1',
+    name:'PraiZet',
     rating:1.92,
     place:1,
     image:'images/vitalja.png',
