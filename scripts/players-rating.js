@@ -104,10 +104,10 @@ const players= [{
     name:'isidurrrrrr1',
     rating:1.92,
     place:1,
-    image:'images/unknown.png',
+    image:'images/vitalja.png',
     team:'images/kurushimi.png'
 },{
-    name:'Виталя',
+    name:'Женя',
     rating:0.00,
     place:0,
     image:'images/unknown.png',
