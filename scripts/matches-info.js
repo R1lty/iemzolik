@@ -27,7 +27,7 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'1 : 0',
   time:'22:30',
   data:'10.06'
 }]
