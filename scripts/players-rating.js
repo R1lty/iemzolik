@@ -6,8 +6,8 @@ const players= [{
     team:'images/mvs.png'
 },{
     name: 'NicKaJ',
-    place:1,
-    rating:2.01,
+    place:2,
+    rating:1.51,
     image:'images/nikita.png',
     team:'images/new-royalflames.png'
 },
@@ -19,8 +19,8 @@ const players= [{
     team:'images/dzuz.png'
 },{
     name:'R1lty',
-    rating:1.38,
-    place:2,
+    rating:1.62,
+    place:1,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },
