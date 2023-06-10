@@ -8,17 +8,8 @@ const gameinfo =[{
     score:'1:0',
     time:'20:00',
     data:'09.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/new-royalflames.png',
-  team2_image:'images/gvatar.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'20:00',
-  data:'10.06'
-},{
+},
+,{
   team1:'',
   team2:'',
   team1_image:'images/new-royalflames.png',
@@ -28,17 +19,8 @@ const gameinfo =[{
   score:'VS',
   time:'20:30',
   data:'10.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/jora.png',
-  team2_image:'images/gvatar.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'21:00',
-  data:'10.06'
-},{
+},
+,{
   team1:'',
   team2:'',
   team1_image:'images/mvs.png',
