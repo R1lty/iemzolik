@@ -7,7 +7,7 @@ const players= [{
 },{
     name: 'NicKaJ',
     place:2,
-    rating:1.51,
+    rating: 1.52,
     image:'images/nikita.png',
     team:'images/new-royalflames.png'
 },
