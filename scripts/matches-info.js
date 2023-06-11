@@ -58,7 +58,17 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'20:00',
+  time:'20:30',
+  data:'12.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/mvs.png',
+  team2_image:'images/dzuz.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'21:00',
   data:'12.06'
 },{
   team1:'',
@@ -68,7 +78,7 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'20:30',
+  time:'21:30',
   data:'12.06'
 },{
   team1:'',
@@ -78,7 +88,7 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'20:30',
+  time:'22:00',
   data:'12.06'
 },{
   team1:'',
@@ -88,7 +98,7 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'20:30',
+  time:'22:30',
   data:'12.06'
 }]
 gameinfo.sort();
