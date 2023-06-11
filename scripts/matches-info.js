@@ -47,7 +47,7 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА A',
-  score:'1 : 0',
+  score:'0 : 1',
   time:'22:00',
   data:'11.06'
 },{
@@ -98,7 +98,7 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'23:15',
+  time:'22:45',
   data:'12.06'
 },{
   team1:'',
@@ -108,7 +108,7 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'VS',
-  time:'22:45',
+  time:'23:15',
   data:'12.06'
 }]
 gameinfo.sort();
