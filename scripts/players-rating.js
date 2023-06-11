@@ -140,13 +140,13 @@ const players= [{
     name:'dhssyxclairs',
     rating:2.02,
     place:1,
-    image:'images/unknown.png',
+    image:'images/dhssyxclairs.png',
     team:'images/kk.png'
 },{
     name:'Rinkēvičs',
     rating:1.67,
     place:3,
-    image:'images/unknown.png',
+    image:'images/rink.png',
     team:'images/kk.png'
 }]
 players.sort((a, b) => b.rating - a.rating);
