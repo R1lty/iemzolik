@@ -18,7 +18,9 @@ body{
 .table-area{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-left:110px;
+    margin-left:200px;
+    margin-right: 200px;
+    
 }
 
 caption{
