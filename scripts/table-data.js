@@ -54,13 +54,13 @@ const teamPositionB = [
   },
   {
     name: 'DZUZ',
-    playedGames: 1,
+    playedGames: 2,
     scores: 0
   },
   {
     name: 'KK E-sports',
-    playedGames: 0,
-    scores: 0
+    playedGames: 1,
+    scores: 3
   }
 ];
 
