@@ -50,6 +50,46 @@ const gameinfo =[{
   score:'VS',
   time:'22:00',
   data:'11.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/new-royalflames.png',
+  team2_image:'images/polinaFans.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'20:00',
+  data:'12.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/new-royalflames.png',
+  team2_image:'images/gvatar.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'20:30',
+  data:'12.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/polinaFans.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'20:30',
+  data:'12.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/gvatar.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'20:30',
+  data:'12.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
