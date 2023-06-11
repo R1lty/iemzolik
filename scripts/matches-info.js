@@ -47,7 +47,7 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'1 : 0',
   time:'22:00',
   data:'11.06'
 },{

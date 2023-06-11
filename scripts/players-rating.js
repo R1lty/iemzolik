@@ -137,15 +137,15 @@ const players= [{
     image:'images/unknown.png',
     team:'images/polinaFans.png'
 },{
-    name:'first-player',
-    rating:0.00,
+    name:'dhssyxclairs',
+    rating:2.02,
     place:0,
     image:'images/unknown.png',
     team:'images/kk.png'
 },{
-    name:'second-player',
-    rating:0.00,
-    place:0,
+    name:'Rinkēvičs',
+    rating:1.67,
+    place:2,
     image:'images/unknown.png',
     team:'images/kk.png'
 }]
