@@ -63,16 +63,6 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/mvs.png',
-  team2_image:'images/dzuz.png',
-
-  group:'ГРУППА B',
-  score:'VS',
-  time:'22:15',
-  data:'12.06'
-},{
-  team1:'',
-  team2:'',
   team1_image:'images/new-royalflames.png',
   team2_image:'images/gvatar.png',
 
@@ -89,6 +79,16 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'VS',
   time:'21:30',
+  data:'12.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/mvs.png',
+  team2_image:'images/dzuz.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'22:15',
   data:'12.06'
 },{
   team1:'',
