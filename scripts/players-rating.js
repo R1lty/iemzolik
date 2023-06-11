@@ -103,7 +103,7 @@ const players= [{
 },{
     name:'PraiZet',
     rating:1.92,
-    place:1,
+    place:2,
     image:'images/vitalja.png',
     team:'images/kurushimi.png'
 },{
@@ -139,13 +139,13 @@ const players= [{
 },{
     name:'dhssyxclairs',
     rating:2.02,
-    place:0,
+    place:1,
     image:'images/unknown.png',
     team:'images/kk.png'
 },{
     name:'Rinkēvičs',
     rating:1.67,
-    place:2,
+    place:3,
     image:'images/unknown.png',
     team:'images/kk.png'
 }]
