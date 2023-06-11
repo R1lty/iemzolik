@@ -30,6 +30,26 @@ const gameinfo =[{
   score:'1 : 0',
   time:'22:30',
   data:'10.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/dzuz.png',
+  team2_image:'images/kk.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'21:15',
+  data:'11.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/jora.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'22:00',
+  data:'11.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
