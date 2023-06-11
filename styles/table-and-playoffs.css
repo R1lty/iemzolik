@@ -16,7 +16,8 @@ body{
 }
 
 .table-area{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 caption{
@@ -25,7 +26,7 @@ caption{
 }
 
 table {
-    border: 1px solid white;
+    border: 0px solid white;
     color: white;
     width: 600px;
     margin-left:55px; 
@@ -70,6 +71,7 @@ caption{
     background-color: rgb(56, 0, 27);
     color: white;
   }
+  
   @media(max-width:1920px){
     .table-area{
       justify-content: center;
