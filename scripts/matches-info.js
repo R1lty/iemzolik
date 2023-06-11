@@ -66,7 +66,7 @@ const gameinfo =[{
   team1_image:'images/mvs.png',
   team2_image:'images/dzuz.png',
 
-  group:'ГРУППА A',
+  group:'ГРУППА B',
   score:'VS',
   time:'21:00',
   data:'12.06'
