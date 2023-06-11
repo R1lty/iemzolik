@@ -77,3 +77,38 @@ caption{
       justify-content: center;
     }
   }
+  @media(max-width:900px){
+    table {
+      width: 400px;
+      margin-top:50px;  
+   }
+   caption{
+    font-size: 18px;
+   }
+   td,th {
+    padding:9px;
+    font-size: 12px;
+  }
+  .played-matches{
+  width: 5px;
+  }
+  }
+  @media (max-width: 768px) {
+    .table-area {
+      overflow-x: auto;
+      margin: 0;
+      padding: 0;
+    }
+  
+    .table-area table {
+      width: 100%;
+      table-layout: fixed;
+    }
+    .playoff-area{
+      width: 400px;
+      background-color: red;
+  
+  }
+  }
+
+  
