@@ -11,8 +11,8 @@ const teamPositionA = [
   },
   {
     name: '最も多く支払った人が勝ちです',
-    playedGames: 1,
-    scores: 0
+    playedGames: 2,
+    scores: 3
   },
   {
     name: 'Жилистые звери',
