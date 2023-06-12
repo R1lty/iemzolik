@@ -67,7 +67,7 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'1 : 0',
   time:'20:30',
   data:'12.06'
 },{
