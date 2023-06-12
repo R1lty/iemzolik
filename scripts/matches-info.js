@@ -57,7 +57,7 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'ГРУППА A',
-  score:'1 : 0',
+  score:'0 : 1',
   time:'20:00',
   data:'12.06'
 },{
