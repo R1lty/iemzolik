@@ -6,7 +6,7 @@ const teamPositionA = [
   },
   {
     name: 'Sņusītis',
-    playedGames: 2,
+    playedGames: 3,
     scores: 0,
   },
   {
@@ -21,8 +21,8 @@ const teamPositionA = [
   },
   {
     name: 'POLINA FANS',
-    playedGames: 1,
-    scores: 3
+    playedGames: 2,
+    scores: 6
   },
   {
     name: 'GVATAR',
