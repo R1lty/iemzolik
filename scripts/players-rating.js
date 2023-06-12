@@ -1,8 +1,8 @@
 const players= [{
     name: 'Aleksi',
-    place:2,
-    rating:0.12,
-    image:'images/dima.png',
+    place:1,
+    rating:5.52,
+    image:'images/unknown.png',
     team:'images/mvs.png'
 },{
     name: 'NicKai',
@@ -103,7 +103,7 @@ const players= [{
 },{
     name:'PraiZet',
     rating:1.92,
-    place:2,
+    place:3,
     image:'images/vitalja.png',
     team:'images/kurushimi.png'
 },{
@@ -139,7 +139,7 @@ const players= [{
 },{
     name:'dhssyxclairs',
     rating:2.02,
-    place:1,
+    place:2,
     image:'images/dhssyxclairs.png',
     team:'images/kk.png'
 },{
