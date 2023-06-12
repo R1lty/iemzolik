@@ -114,17 +114,17 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/jora.png',
-  team2_image:'images/gvatar.png',
+  team1_image:'images/mvs.png',
+  team2_image:'images/underAlus.png',
 
-  group:'ГРУППА А',
+  group:'ГРУППА B',
   score:'VS',
   time:'20:00',
   data:'13.06'
 },{
   team1:'',
   team2:'',
-  team1_image:'images/beasts.png',
+  team1_image:'images/jora.png',
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА А',
@@ -134,22 +134,12 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/new-royalflames.png',
-  team2_image:'images/beasts.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'21:00',
-  data:'13.06'
-},{
-  team1:'',
-  team2:'',
   team1_image:'images/underAlus.png',
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
   score:'VS',
-  time:'21:30',
+  time:'21:00',
   data:'13.06'
 },{
   team1:'',
@@ -159,15 +149,26 @@ const gameinfo =[{
 
   group:'ГРУППА B',
   score:'VS',
-  time:'22:00',
+  time:'21:30',
   data:'13.06'
 },{
   team1:'',
   team2:'',
-  team1_image:'images/mvs.png',
-  team2_image:'images/underAlus.png',
+  team1_image:'images/new-royalflames.png',
+  team2_image:'images/beasts.png',
 
-  group:'ГРУППА B',
+  group:'ГРУППА А',
+  score:'VS',
+  time:'22:00',
+  data:'13.06'
+},
+{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts.png',
+  team2_image:'images/gvatar.png',
+
+  group:'ГРУППА А',
   score:'VS',
   time:'22:30',
   data:'13.06'
