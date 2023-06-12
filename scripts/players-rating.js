@@ -1,5 +1,5 @@
 const players= [{
-    name: 'Aleksi',
+    name: 'Aleksii',
     place:1,
     rating:3.69,
     image:'images/unknown.png',
