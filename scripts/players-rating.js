@@ -1,7 +1,7 @@
 const players= [{
     name: 'Aleksi',
     place:1,
-    rating:5.52,
+    rating:3.69,
     image:'images/unknown.png',
     team:'images/mvs.png'
 },{
@@ -122,7 +122,7 @@ const players= [{
     name:'rofclick',
     rating:2.23,
     place:2,
-    image:'images/unknown.png',
+    image:'images/rofclick.png',
     team:'images/polinaFans.png'
 },{
     name:'Arturan',
