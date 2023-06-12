@@ -119,9 +119,9 @@ const players= [{
     image:'images/unknown.png',
     team:'images/polinaFans.png'
 },{
-    name:'Marat-kent',
-    rating:0.00,
-    place:0,
+    name:'rofclick',
+    rating:2.23,
+    place:2,
     image:'images/unknown.png',
     team:'images/polinaFans.png'
 },{
@@ -139,7 +139,7 @@ const players= [{
 },{
     name:'dhssyxclairs',
     rating:2.02,
-    place:2,
+    place:3,
     image:'images/dhssyxclairs.png',
     team:'images/kk.png'
 },{
