@@ -107,8 +107,8 @@ const gameinfo =[{
   team1_image:'images/kk.png',
   team2_image:'images/mvs.png',
 
-  group:'ГРУППА B',
-  score:'VS',
+  group:'"Это было изи"- слова Aleksi после победы',
+  score:'0 : 1',
   time:'22:45',
   data:'12.06'
 }]
