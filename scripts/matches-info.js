@@ -141,7 +141,17 @@ const gameinfo =[{
   score:'0 : 1',
   time:'21:30',
   data:'13.06'
-},
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/ЧлEn0s0s1Ki228.png',
+  team2_image:'images/mvs.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'23:00',
+  data:'13.06'
+}
 ,{
   team1:'',
   team2:'',
@@ -150,7 +160,7 @@ const gameinfo =[{
 
   group:'ГРУППА А',
   score:'VS',
-  time:'23:00',
+  time:'23:30',
   data:'13.06'
 }]
 gameinfo.sort();
