@@ -108,7 +108,7 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'"Это было изи" - слова Aleksi после победы',
-  score:'0 : 1',
+  score:'1 : 0',
   time:'22:45',
   data:'12.06'
 },{
@@ -118,7 +118,7 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА А',
-  score:'VS',
+  score:'1 : 0',
   time:'21:00',
   data:'13.06'
 },{
@@ -128,7 +128,7 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'0 : 1',
   time:'21:00',
   data:'13.06'
 },{
@@ -138,31 +138,11 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'0 : 1',
   time:'21:30',
   data:'13.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/new-royalflames.png',
-  team2_image:'images/beasts.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'22:00',
-  data:'13.06'
 },
-{
-  team1:'',
-  team2:'',
-  team1_image:'images/beasts.png',
-  team2_image:'images/gvatar.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'22:30',
-  data:'13.06'
-},{
+,{
   team1:'',
   team2:'',
   team1_image:'images/polinaFans.png',

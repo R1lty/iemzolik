@@ -11,7 +11,7 @@ const teamPositionA = [
   },
   {
     name: '最も多く支払った人が勝ちです',
-    playedGames: 2,
+    playedGames: 3,
     scores: 3
   },
   {
@@ -26,8 +26,8 @@ const teamPositionA = [
   },
   {
     name: 'GVATAR',
-    playedGames: 2,
-    scores: 3
+    playedGames: 3,
+    scores: 6
   }
 ];
 
@@ -39,12 +39,12 @@ const teamPositionB = [
   },
   {
     name: 'Под ALUS',
-    playedGames: 0,
+    playedGames: 1,
     scores: 0,
   },
   {
     name: 'ЧлEn0s0s1Ki228',
-    playedGames: 0,
+    playedGames: 1,
     scores: 0
   },
   {
@@ -54,8 +54,8 @@ const teamPositionB = [
   },
   {
     name: 'DZUZ',
-    playedGames: 3,
-    scores: 0
+    playedGames: 5,
+    scores: 6
   },
   {
     name: 'KK E-sports',
