@@ -108,7 +108,7 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'"Это было изи" - слова Aleksi после победы',
-  score:'1 : 0',
+  score:'0 : 1',
   time:'22:45',
   data:'12.06'
 },{
