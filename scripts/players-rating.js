@@ -1,7 +1,7 @@
 const players= [{
     name: 'Aleksii',
     place:1,
-    rating:3.69,
+    rating:3.26,
     image:'images/r1lty.png',
     team:'images/mvs.png'
 },{
@@ -103,7 +103,7 @@ const players= [{
 },{
     name:'PraiZet',
     rating:1.92,
-    place:3,
+    place:2,
     image:'images/vitalja.png',
     team:'images/kurushimi.png'
 },{
@@ -120,8 +120,8 @@ const players= [{
     team:'images/polinaFans.png'
 },{
     name:'rofclick',
-    rating:2.23,
-    place:2,
+    rating:1.83,
+    place:3,
     image:'images/rofclick.png',
     team:'images/polinaFans.png'
 },{
@@ -138,7 +138,7 @@ const players= [{
     team:'images/polinaFans.png'
 },{
     name:'dhssyxclairs',
-    rating:2.02,
+    rating:1.45,
     place:3,
     image:'images/dhssyxclairs.png',
     team:'images/kk.png'
