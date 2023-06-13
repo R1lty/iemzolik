@@ -162,6 +162,82 @@ const gameinfo =[{
   score:'1 : 0',
   time:'23:30',
   data:'13.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/polinaFans.png',
+  team2_image:'images/jora.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'20:00',
+  data:'14.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/polinaFans.png',
+  team2_image:'images/beasts.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'20:30',
+  data:'14.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts.png',
+  team2_image:'images/gvatar.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'21:00',
+  data:'14.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/new-royalFlames.png',
+  team2_image:'images/beasts.png',
+
+  group:'ГРУППА А',
+  score:'VS',
+  time:'21:30',
+  data:'14.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/underAlus.png',
+  team2_image:'images/ЧлEn0s0s1Ki228.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'22:00',
+  data:'14.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/underAlus.png',
+  team2_image:'images/kk.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'22:30',
+  data:'14.06'
+}
+,{
+  team1:'',
+  team2:'',
+  team1_image:'images/underAlus.png',
+  team2_image:'images/mvs.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'23:00',
+  data:'14.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
