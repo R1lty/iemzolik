@@ -114,16 +114,6 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/mvs.png',
-  team2_image:'images/underAlus.png',
-
-  group:'ГРУППА B',
-  score:'VS',
-  time:'20:00',
-  data:'13.06'
-},{
-  team1:'',
-  team2:'',
   team1_image:'images/jora.png',
   team2_image:'images/gvatar.png',
 
