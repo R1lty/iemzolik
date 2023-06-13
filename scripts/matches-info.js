@@ -199,7 +199,7 @@ const gameinfo =[{
 ,{
   team1:'',
   team2:'',
-  team1_image:'images/new-royalFlames.png',
+  team1_image:'images/new-royalflames.png',
   team2_image:'images/beasts.png',
 
   group:'ГРУППА А',
