@@ -21,12 +21,12 @@ const teamPositionA = [
   },
   {
     name: 'POLINA FANS',
-    playedGames: 2,
-    scores: 6
+    playedGames: 3,
+    scores: 9
   },
   {
     name: 'GVATAR',
-    playedGames: 3,
+    playedGames: 4,
     scores: 6
   }
 ];
