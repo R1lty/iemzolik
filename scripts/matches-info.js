@@ -170,7 +170,7 @@ const gameinfo =[{
   team2_image:'images/beasts.png',
 
   group:'ГРУППА А',
-  score:'VS',
+  score:'1 : 0',
   time:'21:30',
   data:'14.06'
 }
