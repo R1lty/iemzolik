@@ -39,12 +39,12 @@ const teamPositionB = [
   },
   {
     name: 'Под ALUS',
-    playedGames: 1,
-    scores: 0,
+    playedGames: 2,
+    scores: 3,
   },
   {
     name: 'ЧлEn0s0s1Ki228',
-    playedGames: 2,
+    playedGames: 3,
     scores: 0
   },
   {
