@@ -2,7 +2,7 @@ const players= [{
     name: 'Aleksii',
     place:1,
     rating:3.26,
-    image:'images/r1lty.png',
+    image:'images/sergey.png',
     team:'images/mvs.png'
 },{
     name: 'NicKai',
