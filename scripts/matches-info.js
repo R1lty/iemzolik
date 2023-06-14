@@ -216,16 +216,6 @@ const gameinfo =[{
   score:'VS',
   time:'23:00',
   data:'14.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/polinaFans.png',
-  team2_image:'images/beasts.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'23:30',
-  data:'14.06'
 }]
 gameinfo.sort();
 gameinfo.reverse();
