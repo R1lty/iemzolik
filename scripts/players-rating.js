@@ -54,9 +54,9 @@ const players= [{
     team:'images/underAlus.png'
 },{
     name:'-47',
-    rating:0.00,
-    place:0,
-    image:'images/unknown.png',
+    rating:2.05,
+    place:3,
+    image:'images/sergey.png',
     team:'images/underAlus.png'
 },{
     name:'Эрик',
