@@ -166,17 +166,6 @@ const gameinfo =[{
 ,{
   team1:'',
   team2:'',
-  team1_image:'images/beasts.png',
-  team2_image:'images/gvatar.png',
-
-  group:'ГРУППА А',
-  score:'VS',
-  time:'21:00',
-  data:'14.06'
-}
-,{
-  team1:'',
-  team2:'',
   team1_image:'images/new-royalflames.png',
   team2_image:'images/beasts.png',
 
