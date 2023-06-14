@@ -18,7 +18,7 @@ const players= [{
     team:'images/dzuz.png'
 },{
     name:'R1lty',
-    rating:1.62,
+    rating:2.39,
     place:2,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
@@ -103,7 +103,7 @@ const players= [{
 },{
     name:'PraiZet',
     rating:1.92,
-    place:2,
+    place:3,
     image:'images/vitalja.png',
     team:'images/kurushimi.png'
 },{
