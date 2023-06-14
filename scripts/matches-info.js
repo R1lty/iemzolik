@@ -213,7 +213,7 @@ const gameinfo =[{
 
   group:'ГРУППА B',
   score:'VS',
-  time:'23:00',
+  time:'23:30',
   data:'14.06'
 }
 ]
