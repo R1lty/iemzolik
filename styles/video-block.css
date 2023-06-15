@@ -1,0 +1,29 @@
+.video-block{
+  width: 100%;
+  height: 600px;
+  background: linear-gradient(rgba(51, 20, 120, 1),rgba(24, 6, 63, 0.78));
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+
+}
+.video-area{
+  height: 500px;
+  width: 888.89px;
+  margin-top:50px;
+}
+.stock{
+  width: 100%;
+  height: 100%;
+}
+@media(max-width:900px){
+  .video-block{
+    margin-top: 50px;
+    height: 400px;
+  }
+  .video-area{
+    height: 100%;
+    width: 888.89px;
+    margin-top:0px;
+  }
+}
