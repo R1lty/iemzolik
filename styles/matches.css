@@ -1,3 +1,6 @@
+.table-area{
+    margin-top:200px;
+}
 .matches-block {
     display: flex;
     flex-wrap: wrap;
@@ -59,14 +62,10 @@
 }
 
 @media(max-width:700px){
-    .playoff-area{
-        margin-top: 35px;
-        width: 420px;
-        height: 230px;
-        background-color: aliceblue;
-    }
+
     .table-area{
         display: block;
+        margin-top:80px;
         width: 400px;
     }
     .team-table-b{

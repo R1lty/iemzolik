@@ -10,6 +10,7 @@
     justify-content: center;
     text-align: center;
     z-index: 100;
+    font-family: 'Russo One', sans-serif;
 }
 
 .menu-name{
@@ -30,5 +31,10 @@
 @media(max-width:900px){
     .header{
         width: 100%;
+    }
+    .menu-name{
+        margin-left: 15px;
+        margin-right: 15px;
+        font-size: 14px;
     }
 }
