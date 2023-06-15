@@ -62,6 +62,7 @@ const teamPositionB = [
     playedGames: 3,
     scores: 6
   }
+  
 ];
 
 // Функция для создания таблицы команд
