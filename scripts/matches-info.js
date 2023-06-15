@@ -265,6 +265,16 @@ const gameinfo =[{
   score:'VS',
   time:'23:00',
   data:'16.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/lenin2.png',
+  team2_image:'images/lenin.png',
+
+  group:'"Revolūcija" - голосом Пильки',
+  score:'VS',
+  time:'Весь день',
+  data:'25.10.1917'
 }
 ]
 gameinfo.sort();

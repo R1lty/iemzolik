@@ -62,6 +62,12 @@ const teamPositionB = [
     playedGames: 3,
     scores: 6
   }
+  ,
+  {
+    name: 'KK E-sports',
+    playedGames: 3,
+    scores: 6
+  }
   
 ];
 
