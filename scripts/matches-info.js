@@ -239,32 +239,12 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/kurushimi.png',
-  team2_image:'images/underAlus.png',
-
-  group:'ГРУППА B',
-  score:'VS',
-  time:'22:00',
-  data:'16.06'
-},{
-  team1:'',
-  team2:'',
   team1_image:'images/underAlus.png',
   team2_image:'images/mvs.png',
 
   group:'ГРУППА B',
   score:'VS',
-  time:'22:30',
-  data:'16.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/kurushimi.png',
-  team2_image:'images/mvs.png',
-
-  group:'ГРУППА B',
-  score:'VS',
-  time:'23:00',
+  time:'22:00',
   data:'16.06'
 },{
   team1:'',
