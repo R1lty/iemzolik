@@ -208,17 +208,18 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/polinaFans.png',
+  team1_image:'images/jora.png',
   team2_image:'images/beasts.png',
 
   group:'ГРУППА A',
   score:'VS',
   time:'20:30',
   data:'16.06'
-},{
+},
+{
   team1:'',
   team2:'',
-  team1_image:'images/jora.png',
+  team1_image:'images/polinaFans.png',
   team2_image:'images/beasts.png',
 
   group:'ГРУППА A',
