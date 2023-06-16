@@ -11,7 +11,7 @@ const teamPositionA = [
   },
   {
     name: '最も多く支払った人が勝ちです',
-    playedGames: 3,
+    playedGames: 4,
     scores: 3
   },
   {
@@ -21,8 +21,8 @@ const teamPositionA = [
   },
   {
     name: 'POLINA FANS',
-    playedGames: 3,
-    scores: 9
+    playedGames: 4,
+    scores: 12
   },
   {
     name: 'GVATAR',
