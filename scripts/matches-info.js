@@ -277,7 +277,7 @@ const gameinfo =[{
 
   group:'ГРУППА B',
   score:'VS',
-  time:'21:00',
+  time:'21:30',
   tech_loss:"",
   data:'17.06'
 },{
@@ -288,7 +288,7 @@ const gameinfo =[{
 
   group:'ГРУППА B',
   score:'VS',
-  time:'21:00',
+  time:'22:00',
   tech_loss:"",
   data:'17.06'
 }
