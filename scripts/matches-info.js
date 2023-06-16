@@ -267,7 +267,7 @@ gameinfo.forEach((gameinfo) => {
         <div class="group">${gameinfo.group}</div>
         <div class="score">${gameinfo.score}</div>
         <div class="time">${gameinfo.time}</div>
-        <div class="time">${gameinfo.tech_loss}</div>
+        <div class="data">${gameinfo.tech_loss}</div>
         <div class="data">${gameinfo.data}</div>
       </div>
       <div class="right-section">
