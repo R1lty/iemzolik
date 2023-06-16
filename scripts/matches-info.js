@@ -236,6 +236,61 @@ const gameinfo =[{
   time:'22:00',
   tech_loss:"",
   data:'16.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/underAlus.png',
+  team2_image:'images/kurushimi.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'20:00',
+  tech_loss:"",
+  data:'17.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/kk.png',
+  team2_image:'images/ЧлEn0s0s1Ki228.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'20:30',
+  tech_loss:"",
+  data:'17.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/kk.png',
+  team2_image:'images/kurushimi.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'17.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/ЧлEn0s0s1Ki228.png',
+  team2_image:'images/kurushimi.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'17.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/kurushimi.png',
+  team2_image:'images/mvs.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'17.06'
 }
 ]
 gameinfo.sort();
