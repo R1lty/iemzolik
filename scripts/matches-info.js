@@ -7,6 +7,7 @@ const gameinfo =[{
     group:'ГРУППА А',
     score:'1 : 0',
     time:'20:15',
+    tech_loss:"",
     data:'09.06'
 },
 ,{
@@ -18,6 +19,7 @@ const gameinfo =[{
   group:'ГРУППА А',
   score:'1 : 0',
   time:'20:30',
+  tech_loss:"",
   data:'10.06'
 },
 {
@@ -29,6 +31,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'1 : 0',
   time:'22:30',
+  tech_loss:"",
   data:'10.06'
 },{
   team1:'',
@@ -39,6 +42,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'0 : 1',
   time:'21:15',
+  tech_loss:"",
   data:'11.06'
 },{
   team1:'',
@@ -49,6 +53,7 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'0 : 1',
   time:'22:00',
+  tech_loss:"",
   data:'11.06'
 },{
   team1:'',
@@ -59,6 +64,7 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'0 : 1',
   time:'20:00',
+  tech_loss:"",
   data:'12.06'
 },{
   team1:'',
@@ -69,6 +75,7 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'1 : 0',
   time:'20:30',
+  tech_loss:"",
   data:'12.06'
 },{
   team1:'',
@@ -79,6 +86,7 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'0 : 1',
   time:'21:00',
+  tech_loss:"",
   data:'12.06'
 },{
   team1:'',
@@ -89,6 +97,7 @@ const gameinfo =[{
   group:'ГРУППА A',
   score:'0 : 1',
   time:'21:30',
+  tech_loss:"",
   data:'12.06'
 },
 {
@@ -100,6 +109,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'1 : 0',
   time:'22:15',
+  tech_loss:"",
   data:'12.06'
 },{
   team1:'',
@@ -110,6 +120,7 @@ const gameinfo =[{
   group:'"Это было изи" - слова Aleksi после победы',
   score:'0 : 1',
   time:'22:45',
+  tech_loss:"",
   data:'12.06'
 },{
   team1:'',
@@ -120,6 +131,7 @@ const gameinfo =[{
   group:'ГРУППА А',
   score:'0 : 1',
   time:'21:00',
+  tech_loss:"",
   data:'13.06'
 },{
   team1:'',
@@ -130,6 +142,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'0 : 1',
   time:'21:00',
+  tech_loss:"",
   data:'13.06'
 },{
   team1:'',
@@ -140,6 +153,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'0 : 1',
   time:'21:30',
+  tech_loss:"",
   data:'13.06'
 },{
   team1:'',
@@ -150,6 +164,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'0 : 1',
   time:'23:00',
+  tech_loss:"",
   data:'13.06'
 }
 ,{
@@ -161,6 +176,7 @@ const gameinfo =[{
   group:'ГРУППА А',
   score:'1 : 0',
   time:'23:30',
+  tech_loss:"",
   data:'13.06'
 }
 ,{
@@ -172,6 +188,7 @@ const gameinfo =[{
   group:'ГРУППА А',
   score:'1 : 0',
   time:'21:30',
+  tech_loss:"",
   data:'14.06'
 }
 ,{
@@ -183,6 +200,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'1 : 0',
   time:'22:00',
+  tech_loss:"",
   data:'14.06'
 },{
   team1:'',
@@ -193,6 +211,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'0 : 1',
   time:'23:30',
+  tech_loss:"",
   data:'14.06'
 },
 ,{
@@ -203,7 +222,8 @@ const gameinfo =[{
 
   group:'ГРУППА A',
   score:'0 : 1',
-  time:'21:30 (Техническое поражение)',
+  time:'21:30',
+  tech_loss:"Техническое поражение",
   data:'16.06'
 },{
   team1:'',
@@ -214,6 +234,7 @@ const gameinfo =[{
   group:'ГРУППА B',
   score:'VS',
   time:'22:00',
+  tech_loss:"",
   data:'16.06'
 },{
   team1:'',
@@ -224,6 +245,7 @@ const gameinfo =[{
   group:'"Revolūcija" - голосом Пильки',
   score:'VS',
   time:'Весь день',
+  tech_loss:"",
   data:'25.10.1917'
 }
 ]
@@ -245,6 +267,7 @@ gameinfo.forEach((gameinfo) => {
         <div class="group">${gameinfo.group}</div>
         <div class="score">${gameinfo.score}</div>
         <div class="time">${gameinfo.time}</div>
+        <div class="time">${gameinfo.tech_loss}</div>
         <div class="data">${gameinfo.data}</div>
       </div>
       <div class="right-section">
