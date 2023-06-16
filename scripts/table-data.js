@@ -34,12 +34,12 @@ const teamPositionA = [
 const teamPositionB = [
   {
     name: 'MVS',
-    playedGames: 3,
-    scores: 9
+    playedGames: 4,
+    scores: 12
   },
   {
     name: 'Под ALUS',
-    playedGames: 3,
+    playedGames: 4,
     scores: 3,
   },
   {

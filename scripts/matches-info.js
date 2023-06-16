@@ -232,21 +232,10 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'0 : 1',
   time:'22:00',
   tech_loss:"",
   data:'16.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/lenin2.png',
-  team2_image:'images/lenin.png',
-
-  group:'"Revolūcija" - голосом Пильки',
-  score:'VS',
-  time:'Весь день',
-  tech_loss:"",
-  data:'25.10.1917'
 }
 ]
 gameinfo.sort();
