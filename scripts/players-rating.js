@@ -1,7 +1,7 @@
 const players= [{
     name: 'Aleksii',
     place:1,
-    rating:3.26,
+    rating:2.43,
     image:'images/sergey.png',
     team:'images/mvs.png'
 },{
@@ -54,7 +54,7 @@ const players= [{
     team:'images/underAlus.png'
 },{
     name:'-47',
-    rating:2.05,
+    rating:1.79,
     place:3,
     image:'images/sergey.png',
     team:'images/underAlus.png'
