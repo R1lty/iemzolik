@@ -39,8 +39,8 @@ const teamPositionB = [
   },
   {
     name: 'Под ALUS',
-    playedGames: 4,
-    scores: 3,
+    playedGames: 5,
+    scores: 6,
   },
   {
     name: 'ЧлEn0s0s1Ki228',
@@ -49,7 +49,7 @@ const teamPositionB = [
   },
   {
     name: 'Kurushimi',
-    playedGames: 1,
+    playedGames: 2,
     scores: 3
   },
   {
