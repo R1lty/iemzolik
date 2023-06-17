@@ -254,7 +254,7 @@ const gameinfo =[{
   team2_image:'images/ЧлEn0s0s1Ki228.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'1 : 0',
   time:'20:30',
   tech_loss:"",
   data:'17.06'
@@ -265,7 +265,7 @@ const gameinfo =[{
   team2_image:'images/kurushimi.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'0 : 1',
   time:'21:00',
   tech_loss:"",
   data:'17.06'

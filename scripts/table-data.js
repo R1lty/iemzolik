@@ -49,8 +49,8 @@ const teamPositionB = [
   },
   {
     name: 'Kurushimi',
-    playedGames: 2,
-    scores: 3
+    playedGames: 3,
+    scores: 6
   },
   {
     name: 'DZUZ',
@@ -59,7 +59,7 @@ const teamPositionB = [
   },
   {
     name: 'KK E-sports',
-    playedGames: 4,
+    playedGames: 5,
     scores: 9
   }
   
