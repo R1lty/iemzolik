@@ -280,6 +280,61 @@ const gameinfo =[{
   time:'21:30',
   tech_loss:"Overpass",
   data:'17.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/mvs.png',
+  team2_image:'images/kurushimi.png',
+
+  group:'ГРУППА B',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'18.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/beasts.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'21:30',
+  tech_loss:"",
+  data:'18.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/gvatar.png',
+  team2_image:'images/beasts.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'22:00',
+  tech_loss:"",
+  data:'18.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts.png',
+  team2_image:'images/polinaFans.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'22:30',
+  tech_loss:"",
+  data:'18.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts.png',
+  team2_image:'images/jora.png',
+
+  group:'ГРУППА A',
+  score:'VS',
+  time:'23:00',
+  tech_loss:"",
+  data:'18.06'
 }
 ]
 gameinfo.sort();
