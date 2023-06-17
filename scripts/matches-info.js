@@ -280,17 +280,6 @@ const gameinfo =[{
   time:'21:30',
   tech_loss:"",
   data:'17.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/kurushimi.png',
-  team2_image:'images/mvs.png',
-
-  group:'ГРУППА B',
-  score:'VS',
-  time:'22:00',
-  tech_loss:"",
-  data:'17.06'
 }
 ]
 gameinfo.sort();
