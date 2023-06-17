@@ -44,13 +44,13 @@ const teamPositionB = [
   },
   {
     name: 'ЧлEn0s0s1Ki228',
-    playedGames: 4,
+    playedGames: 5,
     scores: 0
   },
   {
     name: 'Kurushimi',
-    playedGames: 3,
-    scores: 6
+    playedGames: 4,
+    scores: 9
   },
   {
     name: 'DZUZ',
