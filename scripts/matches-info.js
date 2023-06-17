@@ -5,9 +5,9 @@ const gameinfo =[{
     team2_image:'images/snusitis.png',
 
     group:'ГРУППА А',
-    score:'1 : 0',
+    score:'9 : 4',
     time:'20:15',
-    tech_loss:"",
+    tech_loss:"Cobblestone",
     data:'09.06'
 },
 ,{
@@ -17,9 +17,9 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА А',
-  score:'1 : 0',
+  score:'9 : 5',
   time:'20:30',
-  tech_loss:"",
+  tech_loss:"Boyard",
   data:'10.06'
 },
 {
@@ -29,9 +29,9 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'1 : 0',
+  score:'12 : 8',
   time:'22:30',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'10.06'
 },{
   team1:'',
@@ -40,9 +40,9 @@ const gameinfo =[{
   team2_image:'images/kk.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'3 : 9',
   time:'21:15',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'11.06'
 },{
   team1:'',
@@ -51,9 +51,9 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА A',
-  score:'0 : 1',
+  score:'16 : 18',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"Overpass",
   data:'11.06'
 },{
   team1:'',
@@ -62,9 +62,9 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'ГРУППА A',
-  score:'0 : 1',
+  score:'5 : 9',
   time:'20:00',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'12.06'
 },{
   team1:'',
@@ -73,9 +73,9 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА A',
-  score:'1 : 0',
+  score:'9 : 7',
   time:'20:30',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'12.06'
 },{
   team1:'',
@@ -84,9 +84,9 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'ГРУППА A',
-  score:'0 : 1',
+  score:'5 : 9',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"Overpass",
   data:'12.06'
 },{
   team1:'',
@@ -95,9 +95,9 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА A',
-  score:'0 : 1',
+  score:'5 : 9',
   time:'21:30',
-  tech_loss:"",
+  tech_loss:"Nuke",
   data:'12.06'
 },
 {
@@ -107,9 +107,9 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'1 : 0',
+  score:'9 : 1',
   time:'22:15',
-  tech_loss:"",
+  tech_loss:"Chalice",
   data:'12.06'
 },{
   team1:'',
@@ -118,9 +118,9 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'"Это было изи" - слова Aleksi после победы',
-  score:'0 : 1',
+  score:'7 : 9',
   time:'22:45',
-  tech_loss:"",
+  tech_loss:"Cobblestone",
   data:'12.06'
 },{
   team1:'',
@@ -129,9 +129,9 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА А',
-  score:'0 : 1',
+  score:'5 : 9',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"Overpass",
   data:'13.06'
 },{
   team1:'',
@@ -140,9 +140,9 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'7 : 9',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'13.06'
 },{
   team1:'',
@@ -151,9 +151,9 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'6 : 9',
   time:'21:30',
-  tech_loss:"",
+  tech_loss:"Train",
   data:'13.06'
 },{
   team1:'',
@@ -162,9 +162,9 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'6 : 9',
   time:'23:00',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'13.06'
 }
 ,{
@@ -174,9 +174,9 @@ const gameinfo =[{
   team2_image:'images/gvatar.png',
 
   group:'ГРУППА А',
-  score:'1 : 0',
+  score:'9 : 7',
   time:'23:30',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'13.06'
 }
 ,{
@@ -186,9 +186,9 @@ const gameinfo =[{
   team2_image:'images/beasts.png',
 
   group:'ГРУППА А',
-  score:'1 : 0',
+  score:'9 : 1',
   time:'21:30',
-  tech_loss:"",
+  tech_loss:"Boyard",
   data:'14.06'
 }
 ,{
@@ -198,9 +198,9 @@ const gameinfo =[{
   team2_image:'images/ЧлEn0s0s1Ki228.png',
 
   group:'ГРУППА B',
-  score:'1 : 0',
+  score:'9 : 3',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'14.06'
 },{
   team1:'',
@@ -209,9 +209,9 @@ const gameinfo =[{
   team2_image:'images/kk.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'13 : 15',
   time:'23:30',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'14.06'
 },
 ,{
@@ -221,7 +221,7 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'ГРУППА A',
-  score:'0 : 1',
+  score:'0 : 9',
   time:'21:30',
   tech_loss:"Техническое поражение",
   data:'16.06'
@@ -232,9 +232,9 @@ const gameinfo =[{
   team2_image:'images/mvs.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'6 : 9',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'16.06'
 },{
   team1:'',
@@ -243,7 +243,7 @@ const gameinfo =[{
   team2_image:'images/kurushimi.png',
 
   group:'ГРУППА B',
-  score:'1 : 0',
+  score:'9 : 0',
   time:'20:00',
   tech_loss:"Техническое поражение",
   data:'17.06'
@@ -254,9 +254,9 @@ const gameinfo =[{
   team2_image:'images/ЧлEn0s0s1Ki228.png',
 
   group:'ГРУППА B',
-  score:'1 : 0',
+  score:'9 : 2',
   time:'20:30',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'17.06'
 },{
   team1:'',
@@ -265,9 +265,9 @@ const gameinfo =[{
   team2_image:'images/kurushimi.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'3 : 9',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"Vertigo",
   data:'17.06'
 },{
   team1:'',
@@ -276,9 +276,9 @@ const gameinfo =[{
   team2_image:'images/kurushimi.png',
 
   group:'ГРУППА B',
-  score:'0 : 1',
+  score:'2 : 9',
   time:'21:30',
-  tech_loss:"",
+  tech_loss:"Overpass",
   data:'17.06'
 }
 ]
