@@ -1,7 +1,7 @@
 const players= [{
     name: 'Aleksii',
-    place:1,
-    rating:2.43,
+    place:2,
+    rating:2.19,
     image:'images/sergey.png',
     team:'images/mvs.png'
 },{
@@ -19,7 +19,7 @@ const players= [{
 },{
     name:'R1lty',
     rating:2.39,
-    place:2,
+    place:1,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },{
@@ -144,7 +144,7 @@ const players= [{
     team:'images/kk.png'
 },{
     name:'Rinkēvičs',
-    rating:1.67,
+    rating:2.12,
     place:3,
     image:'images/rink.png',
     team:'images/kk.png'
