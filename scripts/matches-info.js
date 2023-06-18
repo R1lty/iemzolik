@@ -331,9 +331,9 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'9 : 0',
   time:'23:00',
-  tech_loss:"",
+  tech_loss:"Техническое поражение",
   data:'18.06'
 }
 ]
