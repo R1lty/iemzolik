@@ -1,6 +1,6 @@
 const players= [{
     name: 'Aleksii',
-    place:2,
+    place:3,
     rating:2.19,
     image:'images/sergey.png',
     team:'images/mvs.png'
@@ -19,7 +19,7 @@ const players= [{
 },{
     name:'R1lty',
     rating:2.39,
-    place:1,
+    place:2,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },{
@@ -120,8 +120,8 @@ const players= [{
     team:'images/polinaFans.png'
 },{
     name:'rofclick',
-    rating:1.83,
-    place:3,
+    rating:5.63,
+    place:1,
     image:'images/rofclick.png',
     team:'images/polinaFans.png'
 },{
