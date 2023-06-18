@@ -40,7 +40,7 @@ const teamPositionB = [
   {
     name: 'Под ALUS',
     playedGames: 5,
-    scores: 124589, // 6 //
+    scores: 6
   },
   {
     name: 'ЧлEn0s0s1Ki228',
