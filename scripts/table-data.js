@@ -16,8 +16,8 @@ const teamPositionA = [
   },
   {
     name: 'Жилистые звери',
-    playedGames: 7,
-    scores: 5
+    playedGames: 5,
+    scores: 7
   },
   {
     name: 'POLINA FANS',
