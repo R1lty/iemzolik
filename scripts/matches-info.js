@@ -309,9 +309,9 @@ const gameinfo =[{
   team2_image:'images/beasts.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'0 : 9',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"Техническое поражение",
   data:'18.06'
 },{
   team1:'',
@@ -320,9 +320,9 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'0 : 9',
   time:'22:30',
-  tech_loss:"",
+  tech_loss:"Chalice",
   data:'18.06'
 },{
   team1:'',

@@ -16,17 +16,17 @@ const teamPositionA = [
   },
   {
     name: 'Жилистые звери',
-    playedGames: 2,
-    scores: 1
+    playedGames: 4,
+    scores: 4
   },
   {
     name: 'POLINA FANS',
-    playedGames: 4,
-    scores: 12
+    playedGames: 5,
+    scores: 15
   },
   {
     name: 'GVATAR',
-    playedGames: 4,
+    playedGames: 5,
     scores: 6
   }
 ];
