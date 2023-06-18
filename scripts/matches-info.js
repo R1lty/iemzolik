@@ -298,9 +298,9 @@ const gameinfo =[{
   team2_image:'images/beasts.png',
 
   group:'ГРУППА A',
-  score:'VS',
+  score:'9 : 1',
   time:'21:30',
-  tech_loss:"",
+  tech_loss:"Lake",
   data:'18.06'
 },{
   team1:'',

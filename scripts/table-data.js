@@ -6,8 +6,8 @@ const teamPositionA = [
   },
   {
     name: 'Sņusītis',
-    playedGames: 4,
-    scores: 0,
+    playedGames: 5,
+    scores: 3,
   },
   {
     name: '最も多く支払った人が勝ちです',
@@ -16,8 +16,8 @@ const teamPositionA = [
   },
   {
     name: 'Жилистые звери',
-    playedGames: 1,
-    scores: 0
+    playedGames: 2,
+    scores: 1
   },
   {
     name: 'POLINA FANS',
