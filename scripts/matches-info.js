@@ -287,9 +287,9 @@ const gameinfo =[{
   team2_image:'images/kurushimi.png',
 
   group:'ГРУППА B',
-  score:'VS',
+  score:'6 : 9',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"Inferno",
   data:'18.06'
 },{
   team1:'',
