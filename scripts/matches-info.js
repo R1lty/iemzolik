@@ -394,7 +394,7 @@ const gameinfo =[{
   team1:'',
   team2:'',
   team1_image:'images/gvat-alus.png',
-  team2_image:'images/new-royalFlames.png',
+  team2_image:'images/new-royalflames.png',
 
   group:'Play-off',
   score:'VS',
