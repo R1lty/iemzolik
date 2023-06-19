@@ -335,6 +335,94 @@ const gameinfo =[{
   time:'23:00',
   tech_loss:"Техническое поражение",
   data:'18.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts.png',
+  team2_image:'images/ЧлEn0s0s1Ki228.png',
+
+  group:'Play-in',
+  score:'VS',
+  time:'20:00',
+  tech_loss:"",
+  data:'20.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/gvatar.png',
+  team2_image:'images/underAlus.png',
+
+  group:'Play-in',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'20.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/dzuz.png',
+
+  group:'Play-in',
+  score:'VS',
+  time:'22:00',
+  tech_loss:"",
+  data:'20.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/kk.png',
+  team2_image:'images/jora.png',
+
+  group:'Play-in',
+  score:'VS',
+  time:'23:00',
+  tech_loss:"",
+  data:'20.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/beasts-chlen.png',
+  team2_image:'images/polinaFans.png',
+
+  group:'Play-off',
+  score:'VS',
+  time:'20:00',
+  tech_loss:"",
+  data:'26.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/gvat-alus.png',
+  team2_image:'images/new-royalFlames.png',
+
+  group:'Play-off',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'26.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/kurushimi.png',
+  team2_image:'images/snu-dzuz.png',
+
+  group:'Play-off',
+  score:'VS',
+  time:'22:00',
+  tech_loss:"",
+  data:'26.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/mvs-off.jpg',
+  team2_image:'images/kk-jora.png',
+
+  group:'Play-off',
+  score:'VS',
+  time:'23:00',
+  tech_loss:"",
+  data:'26.06'
 }
 ]
 gameinfo.sort();
