@@ -393,7 +393,7 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
-  team1_image:'images/gvat-alus.png',
+  team1_image:'images/gvatar.png',
   team2_image:'images/mvs-off.jpg',
 
   group:'Play-off',
