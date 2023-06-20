@@ -364,9 +364,9 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'Play-in',
-  score:'VS',
+  score:'0 : 2',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"OVERPASS | BOYARD | NUKE",
   data:'20.06'
 },{
   team1:'',
