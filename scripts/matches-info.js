@@ -342,9 +342,9 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'Play-in',
-  score:'VS',
+  score:'0 : 1',
   time:'19:00',
-  tech_loss:"",
+  tech_loss:"LAKE | TRAIN | OVERPASS",
   data:'20.06'
 },{
   team1:'',
