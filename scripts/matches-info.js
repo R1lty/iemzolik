@@ -389,7 +389,7 @@ const gameinfo =[{
   score:'VS',
   time:'20:00',
   tech_loss:"",
-  data:'26.06'
+  data:'27.06'
 },{
   team1:'',
   team2:'',
@@ -400,7 +400,7 @@ const gameinfo =[{
   score:'VS',
   time:'21:00',
   tech_loss:"",
-  data:'26.06'
+  data:'27.06'
 },{
   team1:'',
   team2:'',
@@ -411,7 +411,7 @@ const gameinfo =[{
   score:'VS',
   time:'22:00',
   tech_loss:"",
-  data:'26.06'
+  data:'27.06'
 },{
   team1:'',
   team2:'',
@@ -422,7 +422,7 @@ const gameinfo =[{
   score:'VS',
   time:'23:00',
   tech_loss:"",
-  data:'26.06'
+  data:'27.06'
 }
 ]
 gameinfo.sort();
