@@ -353,9 +353,9 @@ const gameinfo =[{
   team2_image:'images/underAlus.png',
 
   group:'Play-in',
-  score:'VS',
+  score:'2 : 0',
   time:'20:00',
-  tech_loss:"",
+  tech_loss:"INFERTNO | VERTIGO | OVERPASS",
   data:'20.06'
 },{
   team1:'',
