@@ -342,7 +342,7 @@ const gameinfo =[{
   team2_image:'images/dzuz.png',
 
   group:'Play-in',
-  score:'0 : 1',
+  score:'2 : 1',
   time:'19:00',
   tech_loss:"LAKE | TRAIN | OVERPASS",
   data:'20.06'
@@ -405,7 +405,7 @@ const gameinfo =[{
   team1:'',
   team2:'',
   team1_image:'images/kurushimi.png',
-  team2_image:'images/snu-dzuz.png',
+  team2_image:'images/snusitis.png',
 
   group:'Play-off',
   score:'VS',
