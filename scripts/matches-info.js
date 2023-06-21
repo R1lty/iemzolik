@@ -375,14 +375,14 @@ const gameinfo =[{
   team2_image:'images/ЧлEn0s0s1Ki228.png',
 
   group:'Play-in',
-  score:'VS',
+  score:'2 : 0',
   time:'20:00',
-  tech_loss:"",
+  tech_loss:"Техническое поражение",
   data:'21.06'
 },{
   team1:'',
   team2:'',
-  team1_image:'images/beasts-chlen.png',
+  team1_image:'images/beasts.png',
   team2_image:'images/polinaFans.png',
 
   group:'Play-off',
@@ -405,7 +405,7 @@ const gameinfo =[{
   team1:'',
   team2:'',
   team1_image:'images/new-royalflames.png',
-  team2_image:'images/kk-jora.png',
+  team2_image:'images/jora.png',
 
   group:'Play-off',
   score:'VS',
