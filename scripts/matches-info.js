@@ -393,6 +393,17 @@ const gameinfo =[{
 },{
   team1:'',
   team2:'',
+  team1_image:'images/gvatar.png',
+  team2_image:'images/mvs-off.jpg',
+
+  group:'Play-off',
+  score:'VS',
+  time:'21:00',
+  tech_loss:"",
+  data:'27.06'
+},{
+  team1:'',
+  team2:'',
   team1_image:'images/kurushimi.png',
   team2_image:'images/snusitis.png',
 
@@ -412,18 +423,7 @@ const gameinfo =[{
   time:'23:00',
   tech_loss:"",
   data:'27.06'
-},{
-  team1:'',
-  team2:'',
-  team1_image:'images/gvatar.png',
-  team2_image:'images/mvs-off.jpg',
-
-  group:'Play-off',
-  score:'VS',
-  time:'21:00',
-  tech_loss:"",
-  data:'28.06'
-}
+},
 ]
 gameinfo.sort();
 gameinfo.reverse();
