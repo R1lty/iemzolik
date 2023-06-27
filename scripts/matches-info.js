@@ -397,7 +397,7 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'Play-off',
-  score:'2 : 0',
+  score:'0 : 2',
   time:'23:00',
   tech_loss:"TRAIN | COBBLESTONE | SHORTDUST",
   data:'27.06'
