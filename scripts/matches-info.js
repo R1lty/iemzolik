@@ -386,7 +386,7 @@ const gameinfo =[{
   team2_image:'images/snusitis.png',
 
   group:'Play-off',
-  score:'VS',
+  score:'0 : 2',
   time:'22:00',
   tech_loss:"",
   data:'27.06'
@@ -411,7 +411,7 @@ const gameinfo =[{
   score:'VS',
   time:'22:00',
   tech_loss:"",
-  data:'27.06'
+  data:'28.06'
 },
 {
   team1:'',
