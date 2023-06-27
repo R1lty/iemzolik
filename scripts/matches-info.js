@@ -421,7 +421,7 @@ const gameinfo =[{
 
   group:'Play-off',
   score:'VS',
-  time:'20:00',
+  time:'22:00',
   tech_loss:"",
   data:'27.06'
 }
