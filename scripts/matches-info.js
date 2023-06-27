@@ -397,7 +397,7 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'Play-off',
-  score:'VS',
+  score:'2 : 0',
   time:'23:00',
   tech_loss:"",
   data:'27.06'
