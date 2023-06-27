@@ -388,7 +388,7 @@ const gameinfo =[{
   group:'Play-off',
   score:'0 : 2',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"Техническое поражение",
   data:'27.06'
 },{
   team1:'',
@@ -399,7 +399,7 @@ const gameinfo =[{
   group:'Play-off',
   score:'2 : 0',
   time:'23:00',
-  tech_loss:"",
+  tech_loss:"TRAIN | COBBLESTONE | SHORTDUST",
   data:'27.06'
 },{
   team1:'',
