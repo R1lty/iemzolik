@@ -424,6 +424,18 @@ const gameinfo =[{
   time:'21:00',
   tech_loss:"",
   data:'29.06'
+},
+{
+  team1:'',
+  team2:'',
+  team1_image:'images/snusitis.png',
+  team2_image:'images/jora.jpg',
+
+  group:'Play-off',
+  score:'VS',
+  time:'22:00',
+  tech_loss:"",
+  data:'29.06'
 }
 ]
 gameinfo.sort();
