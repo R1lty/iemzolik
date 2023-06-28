@@ -1,6 +1,6 @@
 const players= [{
     name: 'Aleksii',
-    place:3,
+    place:2,
     rating:2.19,
     image:'images/sergey.png',
     team:'images/mvs.png'
@@ -18,8 +18,8 @@ const players= [{
     team:'images/dzuz.png'
 },{
     name:'R1lty',
-    rating:2.39,
-    place:2,
+    rating:2.02,
+    place:3,
     image:'images/r1lty.png',
     team:'images/new-royalflames.png'
 },{
@@ -101,18 +101,6 @@ const players= [{
     image:'images/unknown.png',
     team:'images/kurushimi.png'
 },{
-    name:'PraiZet',
-    rating:1.92,
-    place:3,
-    image:'images/vitalja.png',
-    team:'images/kurushimi.png'
-},{
-    name:'Женя',
-    rating:0.00,
-    place:0,
-    image:'images/unknown.png',
-    team:'images/kurushimi.png'
-},{
     name:'Marat',
     rating:0.00,
     place:0,
@@ -136,18 +124,6 @@ const players= [{
     place:0,
     image:'images/unknown.png',
     team:'images/polinaFans.png'
-},{
-    name:'dhssyxclairs',
-    rating:1.45,
-    place:3,
-    image:'images/dhssyxclairs.png',
-    team:'images/kk.png'
-},{
-    name:'Rinkēvičs',
-    rating:2.12,
-    place:3,
-    image:'images/rink.png',
-    team:'images/kk.png'
 }]
 players.sort((a, b) => b.rating - a.rating);
 const top3_players = players.slice(0, 3);
