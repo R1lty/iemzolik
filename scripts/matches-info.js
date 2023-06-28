@@ -429,7 +429,7 @@ const gameinfo =[{
   team1:'',
   team2:'',
   team1_image:'images/snusitis.png',
-  team2_image:'images/jora.jpg',
+  team2_image:'images/jora.png',
 
   group:'Play-off',
   score:'VS',
