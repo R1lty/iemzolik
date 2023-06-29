@@ -3,7 +3,7 @@ const players= [{
     place:2,
     rating:2.03,
     image:'images/sergey.png',
-    team:'images/mvs.png'
+    team:'images/mvs-off.jpg'
 },{
     name: 'NicKai',
     place:3,
@@ -21,7 +21,7 @@ const players= [{
     rating:1.94,
     place:3,
     image:'images/r1lty.png',
-    team:'images/mvs.png'
+    team:'images/mvs-off.jpg'
 },{
     name:'franc',
     rating:0.00,
