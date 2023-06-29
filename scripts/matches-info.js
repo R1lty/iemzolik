@@ -432,9 +432,9 @@ const gameinfo =[{
   team2_image:'images/jora.png',
 
   group:'Play-off',
-  score:'VS',
+  score:'0 : 2',
   time:'22:00',
-  tech_loss:"",
+  tech_loss:"LAKE | SHORTDUST | NUKE",
   data:'29.06'
 }
 ]
