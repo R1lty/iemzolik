@@ -408,7 +408,7 @@ const gameinfo =[{
   team2_image:'images/polinaFans.png',
 
   group:'Play-off',
-  score:'VS',
+  score:'0 : 2',
   time:'22:00',
   tech_loss:"",
   data:'28.06'
