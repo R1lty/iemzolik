@@ -1,7 +1,7 @@
 const players= [{
     name: 'Aleksii',
     place:2,
-    rating:2.19,
+    rating:2.03,
     image:'images/sergey.png',
     team:'images/mvs.png'
 },{
@@ -18,10 +18,10 @@ const players= [{
     team:'images/dzuz.png'
 },{
     name:'R1lty',
-    rating:2.02,
+    rating:1.94,
     place:3,
     image:'images/r1lty.png',
-    team:'images/new-royalflames.png'
+    team:'images/mvs.png'
 },{
     name:'franc',
     rating:0.00,
