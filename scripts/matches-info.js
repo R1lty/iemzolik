@@ -420,9 +420,9 @@ const gameinfo =[{
   team2_image:'images/mvs-off.jpg',
 
   group:'Play-off',
-  score:'VS',
+  score:'1 : 2',
   time:'21:00',
-  tech_loss:"",
+  tech_loss:"CHALICE | BOYARD | INFERNO",
   data:'29.06'
 },
 {
