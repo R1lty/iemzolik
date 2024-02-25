@@ -436,6 +436,17 @@ const gameinfo =[{
   time:'22:00',
   tech_loss:"LAKE | SHORTDUST | NUKE",
   data:'29.06'
+},{
+  team1:'',
+  team2:'',
+  team1_image:'images/mvs-off.jpg',
+  team2_image:'images/jora.png',
+
+  group:'FINAL',
+  score:'2 : 0',
+  time:'22:00',
+  tech_loss:"- | - | -",
+  data:'25.02'
 }
 ]
 gameinfo.sort();
